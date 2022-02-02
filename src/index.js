@@ -1,17 +1,17 @@
 const { locatorToLatLng } = require("./QthLocator")
-const fs = require('fs');
-const readline = require('readline');
+const fs = require('fs')
+const readline = require('readline')
 
 // You can increase if you want to reserve the first groups for your own use
 var initialGroupNumber = 1
 const columnSeparator = ','
 const onlyVhfAndUhf = true
-const useRegionPrefixInName = true
+const useRegionPrefixInName = false
 // Add your hotspot here if you want to add it to the list, leave "" if you don't
 // Use the group 1 for the hotspot
 // Example
 // 1,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,430.321,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00
-const hotspot = "1,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,433.111,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00" 
+const hotspot = "01,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,433.111,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00" 
 
 const maxDVRegion = 14
 var writerFM = fs.createWriteStream('../Italy_FM_Repeaters.csv', { flags: 'w' })
@@ -25,6 +25,7 @@ function addHotspot() {
         return
     
     write(hotspot)
+    write("\n")
     initialGroupNumber += 1
 }
 
@@ -40,12 +41,12 @@ async function addRepeatersDV() {
         const elements = line.split(',')
 
         const region = getRegionDV(elements[3])
-        const groupName = [getRegionPrefix(region), "DV", getRegionName(region)].join(' ')
+        const groupName = [getRegionPrefix(region), "DV", getRegionName(region)].join(' ').trim()
         const groupNumberDV = initialGroupNumber + region
         const groupNumberFMDV = initialGroupNumber + (region * 2)
         
-        writerDV.write(`${groupNumberDV}`)
-        writerFMDV.write(`${groupNumberFMDV}`)
+        writerDV.write(zeroPad(groupNumberDV, 2))
+        writerFMDV.write(zeroPad(groupNumberFMDV, 2))
         writeDV(columnSeparator)
         writeDV(groupName)
         writeDV(columnSeparator)
@@ -104,19 +105,19 @@ function writeData(data) {
     }
 
     const region = getRegionFM(data)
-    const groupName = [getRegionPrefix(region), "FM", getRegionName(region)].join(' ')
+    const groupName = [getRegionPrefix(region), "FM", getRegionName(region)].join(' ').trim()
     const groupNumberFM = initialGroupNumber + region
     const groupNumberFMDV = region <= maxDVRegion  ?
       initialGroupNumber + (region * 2) + 1 : initialGroupNumber + (maxDVRegion * 2)+ (region - maxDVRegion) + 1
     
-    writerFM.write(`${groupNumberFM}`)
-    writerFMDV.write(`${groupNumberFMDV}`)
+    writerFM.write(zeroPad(groupNumberFM,2))
+    writerFMDV.write(zeroPad(groupNumberFMDV,2))
     writeFM(columnSeparator)
     writeFM(groupName)
     writeFM(columnSeparator)
-    writeFM(data.city)
+    writeFM(data.city.trim())
     writeFM(columnSeparator)
-    writeFM(data.name)
+    writeFM(data.name.trim())
     writeFM(columnSeparator)
     writeFM(columnSeparator)
     writeFM(columnSeparator)
@@ -514,6 +515,8 @@ function writeDV(string) {
     writerDV.write(string)
     writerFMDV.write(string)
 }
+
+const zeroPad = (num, places) => String(num).padStart(places, '0')
 
 addHotspot()
 addRepeatersDV()
