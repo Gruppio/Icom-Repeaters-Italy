@@ -58,6 +58,10 @@ function writeData(data) {
     writer.write(columnSeparator)
     writer.write(`${getRegionName(region)} FM`)
     writer.write(columnSeparator)
+    writer.write(data.city)
+    writer.write(columnSeparator)
+    writer.write(data.name)
+    writer.write(columnSeparator)
 
     writer.write("\n")
     //console.log(data)
