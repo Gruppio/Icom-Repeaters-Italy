@@ -6,22 +6,60 @@ const readline = require('readline');
 var initialGroupNumber = 1
 const columnSeparator = ','
 const onlyVhfAndUhf = true
+const useRegionPrefixInName = true
+// Add your hotspot here if you want to add it to the list, leave "" if you don't
+// Use the group 1 for the hotspot
+// Example
+// 1,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,430.321,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00
+const hotspot = "" 
 
-var writer = fs.createWriteStream('italy_repeaters_FM_Icom.csv', { flags: 'w' })
-writer.write("Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset\n")
+var writerFM = fs.createWriteStream('Italy_FM_Icom.csv', { flags: 'w' })
+var writerFMDV = fs.createWriteStream('Italy_DV_FM_Icom.csv', { flags: 'w' })
+var writerDV = fs.createWriteStream('Italy_DV_Icom.csv', { flags: 'w' })
 
-// async function addRepeatersDV() {
-//     const fileStream = fs.createReadStream('PONTI-DSTAR-ITALIA-14012022.csv');
+write("Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset\n")
 
-//     const rl = readline.createInterface({
-//         input: fileStream,
-//         crlfDelay: Infinity
-//     });
+function addHotspot() {
+    if (hotspot == "")
+        return
+    
+    write(hotspot)
+    initialGroupNumber += 1
+}
 
-//     for await (const line of rl) {
-//         writer.write(line)
-//     }
-// }
+async function addRepeatersDV() {
+    const fileStream = fs.createReadStream('PONTI-DSTAR-ITALIA-14012022.csv');
+
+    const rl = readline.createInterface({
+        input: fileStream,
+        crlfDelay: Infinity
+    });
+
+    for await (const line of rl) {
+        const elements = line.split(',')
+
+        const region = getRegionDV(elements[3])
+        const groupName = [getRegionPrefix(region), "DV", getRegionName(region)].join(' ')
+        const groupNumberDV = initialGroupNumber + region
+        const groupNumberFMDV = initialGroupNumber + region * 2
+        
+        writerDV.write(`${groupNumberDV}`)
+        writerFMDV.write(`${groupNumberFMDV}`)
+        writeDV(columnSeparator)
+        writeDV(groupName)
+        writeDV(columnSeparator)
+        writeDV(elements[2])
+        writeDV(columnSeparator)
+        writeDV(elements[4].substring(0, elements[3].length - 1).trim())
+        writeDV(columnSeparator)
+        for (var i = 4; i < elements.length; i++) {
+            writeDV(elements[i])
+            if (i != elements.length - 1)
+                writeDV(columnSeparator)
+        }
+        writeDV("\n")
+    }
+}
 
 async function addRepeatersFM() {
     const fileStream = fs.createReadStream('PONTI-FM-ITALIA-IK2ANE.csv');
@@ -64,44 +102,47 @@ function writeData(data) {
         return 
     }
 
-    const region = getRegion(data)
-    writer.write(`${initialGroupNumber + region}`)
-    writer.write(columnSeparator)
-    writer.write(`${getRegionName(region)} FM`)
-    writer.write(columnSeparator)
-    writer.write(data.city)
-    writer.write(columnSeparator)
-    writer.write(data.name)
-    writer.write(columnSeparator)
-    writer.write(data.name)
-    writer.write(columnSeparator)
-    writer.write(columnSeparator)
-    writer.write(freq)
-    writer.write(columnSeparator)
-    writer.write(getShiftDirection(data))
-    writer.write(columnSeparator)
-    writer.write(getShiftValue(data))
-    writer.write(columnSeparator)
-    writer.write("FM")
-    writer.write(columnSeparator)
-    writer.write(data.tone)
-    writer.write(columnSeparator)
-    writer.write(getTone(data))
-    writer.write(columnSeparator)
-    writer.write(getToneValue(data))
-    writer.write(columnSeparator)
-    writer.write("YES")
-    writer.write(columnSeparator)
-    writer.write("Approximate")
-    writer.write(columnSeparator)
-    writer.write(getLatitude(data))
-    writer.write(columnSeparator)
-    writer.write(getLongitude(data))
-    writer.write(columnSeparator)
-    writer.write("--:--")
+    const region = getRegionFM(data)
+    const groupName = [getRegionPrefix(region), "FM", getRegionName(region)].join(' ')
+    const groupNumberFM = initialGroupNumber + region
+    const groupNumberFMDV = initialGroupNumber + region * 2 + 1
     
-
-    writer.write("\n")
+    writerFM.write(`${groupNumberFM}`)
+    writerFMDV.write(`${groupNumberFMDV}`)
+    writeFM(columnSeparator)
+    writeFM(groupName)
+    writeFM(columnSeparator)
+    writeFM(data.city)
+    writeFM(columnSeparator)
+    writeFM(data.name)
+    writeFM(columnSeparator)
+    writeFM(data.name)
+    writeFM(columnSeparator)
+    writeFM(columnSeparator)
+    writeFM(freq)
+    writeFM(columnSeparator)
+    writeFM(getShiftDirection(data))
+    writeFM(columnSeparator)
+    writeFM(getShiftValue(data))
+    writeFM(columnSeparator)
+    writeFM("FM")
+    writeFM(columnSeparator)
+    writeFM(data.tone)
+    writeFM(columnSeparator)
+    writeFM(getTone(data))
+    writeFM(columnSeparator)
+    writeFM(getToneValue(data))
+    writeFM(columnSeparator)
+    writeFM("YES")
+    writeFM(columnSeparator)
+    writeFM("Approximate")
+    writeFM(columnSeparator)
+    writeFM(getLatitude(data))
+    writeFM(columnSeparator)
+    writeFM(getLongitude(data))
+    writeFM(columnSeparator)
+    writeFM("--:--")
+    writeFM("\n")
     //console.log(data)
 }
 
@@ -206,7 +247,7 @@ const Region = {
     montenegro: 27
 }
 
-function getRegion(data) {
+function getRegionFM(data) {
     switch (data.region.trim()) {
         case '1x v.aosta':
             return Region.valle_aosta
@@ -268,66 +309,213 @@ function getRegion(data) {
     throw new Error(`Unknown region -${data.region}-`)
 }
 
+function getRegionDV(data) {
+    switch (data.trim()) {
+        case 'V-Aosta':
+            return Region.valle_aosta
+        case 'Sicilia':
+            return Region.sicilia
+        case 'Sardegna':
+            return Region.sardegna
+        case 'Calabria':
+            return Region.calabria
+        case 'E-Romagn':
+            return Region.emilia_romagna
+        case 'Liguria':
+            return Region.liguria
+        case 'Toscana':
+            return Region.toscana
+        case 'Piemonte':
+            return Region.piemonte
+        case 'Lombardi':
+            return Region.lombardia
+        case 'Veneto':
+            return Region.veneto
+        case 'Marche':
+            return Region.marche
+        case 'Abruzzo':
+            return Region.abruzzo
+        case 'Molise':
+            return Region.molise
+        case 'Basilica':
+            return Region.campania
+        case 'Puglia':
+            return Region.puglia
+        case 'Basilicata':
+            return Region.basilicata
+        case 'Trentino':
+            return Region.trentino
+        case 'Campania':
+            return Region.campania
+        case 'Friuli-V':
+            return Region.friuli
+        case 'Umbria':
+            return Region.umbria
+        case 'Lazio':
+            return Region.lazio
+        case 'San Marino':
+            return Region.san_marino
+        case 'Svizzera':
+            return Region.svizzera
+        case 'Austria':
+            return Region.austria
+        case 'Slovenia':
+            return Region.slovenia
+        case 'Croazia':
+            return Region.croazia
+        case 'Germania':
+            return Region.germania
+        case 'Francia':
+            return Region.france
+        case 'Montenegro':
+            return Region.montenegro
+    }
+    throw new Error(`Unknown DV region -${data}-`)
+}
+
 function getRegionName(region) {
     switch (region) {
         case Region.valle_aosta:
-            return 'X1 Valle d\'Aosta'
+            return 'Valle d\'Aosta'
         case Region.sicilia:
-            return 'T9 Sicilia'
+            return 'Sicilia'
         case Region.sardegna:
-            return 'S0 Sardegna'
+            return 'Sardegna'
         case Region.calabria:
-            return '8 Calabria'
+            return 'Calabria'
         case Region.emilia_romagna:
             return 'Emilia Romagna'
         case Region.liguria:
-            return '1 Liguria'
+            return 'Liguria'
         case Region.toscana:
-            return '5 Toscana'
+            return 'Toscana'
         case Region.piemonte:
-            return '1 Piemonte'
+            return 'Piemonte'
         case Region.lombardia:
-            return '2 Lombardia'
+            return 'Lombardia'
         case Region.veneto:
-            return '3 Veneto'
+            return 'Veneto'
         case Region.marche:
-            return '6 Marche'
+            return 'Marche'
         case Region.abruzzo:
-            return '6 Abruzzo'
+            return 'Abruzzo'
         case Region.molise:
-            return '8 Molise'
+            return 'Molise'
         case Region.campania:
-            return '8 Campania'
+            return 'Campania'
         case Region.puglia:
-            return '7 Puglia'
+            return 'Puglia'
         case Region.basilicata:
-            return '7/8 Basilicata'
+            return 'Basilicata'
         case Region.trentino:
-            return 'N3 Trentino'
+            return 'Trentino'
         case Region.friuli:
-            return 'V3 Friuli'
+            return 'Friuli'
         case Region.umbria:
-            return '0 Umbria'
+            return 'Umbria'
         case Region.lazio:
-            return '0 Lazio'
+            return 'Lazio'
         case Region.san_marino:
-            return 'T7 San Marino'
+            return 'San Marino'
         case Region.svizzera:
-            return "HB Svizzera"
+            return "Svizzera"
         case Region.austria:
-            return "OE Austria"
+            return "Austria"
         case Region.slovenia:
-            return "S5 Slovenia"
+            return "Slovenia"
         case Region.croazia:
-            return "9A Croazia"
+            return "Croazia"
         case Region.germania:
-            return "DA-DR Germania"
+            return "Germania"
         case Region.france:
-            return "F Francia"
+            return "Francia"
         case Region.montenegro:
-            return "4O Montenegro"
+            return "Montenegro"
     }
     throw new Error(`Unknown region ${data.region}`)
 }
 
+function getRegionPrefix(region) {
+    if (!useRegionPrefixInName) {
+        return ""
+    }
+    switch (region) {
+        case Region.valle_aosta:
+            return 'X1'
+        case Region.sicilia:
+            return 'T9'
+        case Region.sardegna:
+            return 'S0'
+        case Region.calabria:
+            return '8'
+        case Region.emilia_romagna:
+            return '4'
+        case Region.liguria:
+            return '1'
+        case Region.toscana:
+            return '5'
+        case Region.piemonte:
+            return '1'
+        case Region.lombardia:
+            return '2'
+        case Region.veneto:
+            return '3'
+        case Region.marche:
+            return '6'
+        case Region.abruzzo:
+            return '6'
+        case Region.molise:
+            return '8'
+        case Region.campania:
+            return '8'
+        case Region.puglia:
+            return '7'
+        case Region.basilicata:
+            return '7/8'
+        case Region.trentino:
+            return 'N3'
+        case Region.friuli:
+            return 'V3'
+        case Region.umbria:
+            return '0'
+        case Region.lazio:
+            return '0'
+        case Region.san_marino:
+            return 'T7'
+        case Region.svizzera:
+            return "HB"
+        case Region.austria:
+            return "OE"
+        case Region.slovenia:
+            return "S5"
+        case Region.croazia:
+            return "9A"
+        case Region.germania:
+            return "DA-DR"
+        case Region.france:
+            return "F"
+        case Region.montenegro:
+            return "4O"
+    }
+    throw new Error(`Unknown region ${data.region}`)
+}
+
+function write(string) {
+    writerFM.write(string)
+    writerDV.write(string)
+    writerFMDV.write(string)
+}
+
+function writeFM(string) {
+    writerFM.write(string)
+    writerFMDV.write(string)
+}
+
+function writeDV(string) {
+    writerDV.write(string)
+    writerFMDV.write(string)
+}
+
+addHotspot()
+addRepeatersDV()
 addRepeatersFM()
