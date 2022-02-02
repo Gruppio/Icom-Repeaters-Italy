@@ -1,5 +1,5 @@
 Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset
-01,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,433.111,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00
+01,Hotspot,Hotspot,PiStar,IU4PRC B,IU4PRC G,432.100000,DUP+,0.000000,DV,OFF,88.5Hz,YES,Approximate,44.585000,11.235000,+1:00
 02,DV Liguria,Borghetto Santo,IR1UGO,IR1UGO B,IR1UGO G,430.525000,DUP+,5.000000,DV,OFF,88.5Hz,YES,Exact,44.124833,8.254333,+1:00
 02,DV Liguria,Borghetto Santo,IR1UGO,IR1UGO C,IR1UGO G,144.937500,DUP+,0.000000,DV,OFF,88.5Hz,YES,Exact,44.105833,8.231000,+1:00
 02,DV Liguria,Cast. Chiavarese,IR1DC,IR1DC  C,IR1DC  G,144.925000,DUP-,0.000000,DV,OFF,88.5Hz,YES,Exact,44.275833,9.527167,+1:00
