@@ -5,6 +5,7 @@ const readline = require('readline');
 // You can increase if you want to reserve the first groups for your own use
 var initialGroupNumber = 1
 const columnSeparator = ','
+const onlyVhfAndUhf = true
 
 var writer = fs.createWriteStream('italy_repeaters_FM_Icom.csv', { flags: 'w' })
 writer.write("Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset\n")
@@ -53,6 +54,16 @@ function parseLine(line) {
 }
 
 function writeData(data) {
+    // keep just the FM repeaters
+    if (data.mode.trim() != '') {
+        return
+    }
+
+    const freq = getFrequency(data)
+    if (onlyVhfAndUhf && freq.length != 10) {
+        return 
+    }
+
     const region = getRegion(data)
     writer.write(`${initialGroupNumber + region}`)
     writer.write(columnSeparator)
@@ -62,9 +73,106 @@ function writeData(data) {
     writer.write(columnSeparator)
     writer.write(data.name)
     writer.write(columnSeparator)
+    writer.write(data.name)
+    writer.write(columnSeparator)
+    writer.write(columnSeparator)
+    writer.write(freq)
+    writer.write(columnSeparator)
+    writer.write(getShiftDirection(data))
+    writer.write(columnSeparator)
+    writer.write(getShiftValue(data))
+    writer.write(columnSeparator)
+    writer.write("FM")
+    writer.write(columnSeparator)
+    writer.write(data.tone)
+    writer.write(columnSeparator)
+    writer.write(getTone(data))
+    writer.write(columnSeparator)
+    writer.write(getToneValue(data))
+    writer.write(columnSeparator)
+    writer.write("YES")
+    writer.write(columnSeparator)
+    writer.write("Approximate")
+    writer.write(columnSeparator)
+    writer.write(getLatitude(data))
+    writer.write(columnSeparator)
+    writer.write(getLongitude(data))
+    writer.write(columnSeparator)
+    writer.write("--:--")
+    
 
     writer.write("\n")
     //console.log(data)
+}
+
+function getLatitude(data) {
+    const qth = data.qth.trim()
+    return `${locatorToLatLng(qth)[0].toFixed(6)}`
+}
+
+function getLongitude(data) {
+    const qth = data.qth.trim()
+    return `${locatorToLatLng(qth)[1].toFixed(6)}`
+}
+
+function getTone(data) {
+    var tone = getToneValue(data)
+    if (tone == "88.5Hz") {
+        return "OFF"
+    }
+    return "TONE"
+}
+
+function getToneValue(data) {
+    var tone = data.tone.trim().replace(',','.')
+    let isToneNumeric = /^\d+\.\d+$/.test(tone)
+    if (tone.length == 0 || !isToneNumeric) {
+        return "88.5Hz"
+    }
+    return tone + "Hz"
+}
+
+function getShiftDirection(data) {
+    var shift = data.shift.trim()
+    if (shift == '0') {
+        return "OFF"
+    }
+
+    if (shift.startsWith('-')) {
+        return "DUP-"
+    }
+
+    if (shift.startsWith('+')) {
+        return "DUP+"
+    }
+    
+    throw new Error(`Unknown shift direction -${shift}- for ${data.city}`)
+}
+
+function getShiftValue(data) {
+    var shift = data.shift.trim()
+    if (shift == '0') {
+        return "0.000000"
+    }
+
+    const shiftStringNumber = shift.substring(1, shift.length - 3)
+    var shiftValue = parseFloat(shiftStringNumber)
+
+    if (shift.endsWith('kHz')) {
+        return (shiftValue / 1000).toFixed(6)
+    }
+
+    if (shift.endsWith('MHz')) {
+        return shiftValue.toFixed(6)
+    }
+    
+    throw new Error(`Unknown shift unit -${shift}- for ${data.city}`)
+}
+
+function getFrequency(data) {
+    var freq = data.freq.trim().replace(',','')
+    freq = freq + "00"
+    return freq
 }
 
 const Region = {
@@ -222,8 +330,4 @@ function getRegionName(region) {
     throw new Error(`Unknown region ${data.region}`)
 }
 
-
-
 addRepeatersFM()
-
-//console.log(locatorToLatLng("IO91wm"))

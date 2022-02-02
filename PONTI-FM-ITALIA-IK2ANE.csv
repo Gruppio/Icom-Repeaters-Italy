@@ -733,7 +733,7 @@
 ;T;144.562,5;0;79.7;5 toscana;PO;Val Bisenzio (PO); ; ;;Bisenzio;JN54NA;222;136;009;;ari prato iz5gtn;;;;;;;;;;
 ;T in;144.625,0;0;;5 toscana;GR;M.Amiata (GR);;;;Amiata 50 MHz;JN52TV;346;145;009;;aral  iw5ees;;;;;;;;;;
 ;HotSpot;144.662,5;0;;5 toscana;FI;Scarperia (FI);C4FM;IZ5RZI;;WIRES-X;JN53QX;239;133;009;;iz5rzi;;;;;;;;;;
-;T;144.675,0;input; ;5 toscana;LI;Campiglia Marittima (LI);;IR5UDS;;Campiglia Marittima;JN53HB;291;157;009;;gruppo radio val di cornia  iz5mmh ;;;;;;;;;;
+;T;144.675,0;0;0;5 toscana;LI;Campiglia Marittima (LI);;IR5UDS;;Campiglia Marittima;JN53HB;291;157;009;;gruppo radio val di cornia  iz5mmh ;;;;;;;;;;
 ;T;144.687,5;0;79,7;5 toscana;PO;Val Bisenzio (PO);;;;Val Bisenzio;JN54NC;215;135;009;;iz5gtn - iz5hid;;;;;;;;;;
 ;T;144.687,5;0;;5 toscana;SI;Campi (SI);;IR5UDG;;Campi;JN53RJ;292;142;009;;gruppo wifi radioamatori senesi;;;;;;;;;;
 ;HotSpot;144.900,0;0;;5 toscana;FI;M. Secchieta (FI);C4FM;IK5BZH;;;JN53RS;260;136;009;;ari pontassieve ik5bzh;;;;;;;;;;
@@ -793,7 +793,7 @@
 ;RU12;430.300,0;+1.6 MHz;;5 toscana;FI;Frascole-Dicomano (FI);;IR5UCE;;;JN53SV;255;133;009;;ari pontassieve ik5bzh;;;;;;;;;;
 ;RU12a;430.312,5;+5.0 MHz;79.7;5 toscana;LU;Monte Meto (LU); ; ;;;JN53DV;196;154;009;;iw5bhu;;;;;;;;;;
 ;RU13;430.325,0;+1.6 MHz;71.9;5 toscana;AR;Civitella della Chiana (AR); ;; ;Civitella;JN53UK;301;138;009;;cisar arezzo;;;;;;;;;;
-;RU13;430.325,0;;146.2;5 toscana;FI;Poggio Valicaia (FI);;;;;JN53NR;247;141;009;;ari scandicci;;;;;;;;;;
+;RU13;430.325,0;+1.6 MHz;146.2;5 toscana;FI;Poggio Valicaia (FI);;;;;JN53NR;247;141;009;;ari scandicci;;;;;;;;;;
 ;RU14;430.350,0;+5.0 MHz;136.5;5 toscana;GR;M.Aquilaia (GR);;IR5UBD;; ;JN52RU;342;148;009;;aral  iw5ees;;;;;;;;;;
 ;RU14a;430.362,5;+1.6 MHz;;5 toscana;FI;Poggio Firenze (FI);;IR5UCR;;;JN53QQ;263;138;009;;ari pontassieve ik5bzh;;;;;;;;;;
 ;RU;430.400,0;+5.0 MHz;71.9;5 toscana;AR;Cortona (AR);;;;;JN53XG;328;137;009;;uri cortona;;;;;;;;;;
@@ -846,8 +846,8 @@
 ;RU29a;431.562,5;+1.6 MHz;;5 toscana;MS;Aulla (MS);EL-SVX;IR1UIJ;531478;iq2aq-l;JN44XE;155;157;009;;iz1rwc  iu1liq;;;;;;;;;;
 ;RU30;431.575,0;+5.0 MHz;;5 toscana;LI;Cima del Monte - Elba (LI);DMR;IR5UCM;;BRANDMEISTER;JN52ET;311;162;009;;cisar elba;;;;;;;;;;
 ;RU31a;431.612,5;+1.6 MHz;79.7;5 toscana;LU;M.Serra (LU) ;;;;;JN53GS;217;150;009;;ari santa maria a monte;;;;;;;;;;
-;T;432.675,0;output; ;5 toscana;LI;Campiglia Marittima (LI);;IR5UDS;;Campiglia Marittima;JN53HB;291;157;009;;gruppo  radio val di cornia  iz5mmh;;;;;;;;;;
- ;T;432.687,5;0; ;5 toscana;SI;Campi (SI);;IR5UDG;;Campi;JN53RJ;292;142;009;;gruppo wifi radioamatori senesi;;;;;;;;;;
+;T;432.675,0;0;;5 toscana;LI;Campiglia Marittima (LI);;IR5UDS;;Campiglia Marittima;JN53HB;291;157;009;;gruppo  radio val di cornia  iz5mmh;;;;;;;;;;
+ ;T;432.687,5;0;;5 toscana;SI;Campi (SI);;IR5UDG;;Campi;JN53RJ;292;142;009;;gruppo wifi radioamatori senesi;;;;;;;;;;
 ;T in;435.462,5;0;88.5;5 toscana;AR; M.Lignano (AR);EL;;455165;Civitella;JN53WJ;314;137;009;;cisar arezzo;;;;;;;;;;
 ;RM;1.270.050,0;+28 MHz;;5 toscana;SI;M.Amiata (SI);EL-SVX;;590731;Rete Umbra;JN52TV;346;145;009;;iw0red  iw0ref;;;;;;;;;;
 ;RM0;1.297.000,0;-6 MHz;;5 toscana;LU;Montecarlo (LU);;;;;JN53IU;216;146;009;;ari altopascio;;;;;;;;;;
