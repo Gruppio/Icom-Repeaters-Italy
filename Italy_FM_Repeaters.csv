@@ -1,643 +1,643 @@
 Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset
 01,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,433.111,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00
-17,FM Valle d'Aosta,Courmayeur (AO),R0,,,145.600000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,45.770833,6.958333,--:--
-17,FM Valle d'Aosta,Saint Vincent (AO),R6,,,145.750000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,45.770833,7.625000,--:--
-03,FM Piemonte,Belforte Monferrato (AL),T,,,144.512500,OFF,0.000000,FM,TONE,82.5Hz,YES,Approximate,44.604167,8.625000,--:--
-03,FM Piemonte,Paroldo (CN),RV,,,145.487500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.437500,8.041667,--:--
-03,FM Piemonte,M. Cimolo (VCO),RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,131.8Hz,YES,Approximate,45.979167,8.625000,--:--
-03,FM Piemonte,Cossato (BI),R0,,,145.600000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,45.562500,8.208333,--:--
-03,FM Piemonte,Cesana Torinese (TO),R0,,,145.600000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,44.937500,6.791667,--:--
-03,FM Piemonte,Frassinetto (TO),R0,,,145.600000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,45.437500,7.625000,--:--
-03,FM Piemonte,Prarostino (TO),R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.854167,7.291667,--:--
-03,FM Piemonte,M. Mottarone (VCO),R0a,,,145.612500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,45.895833,8.458333,--:--
-03,FM Piemonte,Asti,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.895833,8.208333,--:--
-03,FM Piemonte,Aquila di Giaveno (TO),R2,,,145.650000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,45.020833,7.291667,--:--
-03,FM Piemonte,Roccaverano (AT),R2a,,,145.662500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,44.770833,7.291667,--:--
-03,FM Piemonte,Pino Torinese (TO),R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.020833,7.791667,--:--
-03,FM Piemonte,Alpe Colombino - Giaveno (TO),R4,,,145.700000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,45.020833,7.291667,--:--
-03,FM Piemonte,M.Dago-Nizza Monferrato (AT),R4a,,,145.712500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.687500,8.375000,--:--
-03,FM Piemonte,Susa (TO),R5,,,145.725000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,45.145833,7.041667,--:--
-03,FM Piemonte,Costigliole d'Asti (AT),R5a,,,145.737500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.812500,8.208333,--:--
-03,FM Piemonte,Bagnolo Piemonte (CN),R6,,,145.750000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.770833,7.291667,--:--
-03,FM Piemonte,M.Moncucco (VCO),R6,,,145.750000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,46.104167,8.291667,--:--
-03,FM Piemonte,Fracconalto (AL),R6a,,,145.762500,DUP-,0.600000,FM,TONE,162.2Hz,YES,Approximate,44.604167,8.875000,--:--
-03,FM Piemonte,Sestriere (TO),R6a,,,145.762500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,44.979167,6.875000,--:--
-03,FM Piemonte,Torino,R6a,,,145.762500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,45.104167,7.708333,--:--
-03,FM Piemonte,M.Mottarone (VCO),R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.854167,8.458333,--:--
-03,FM Piemonte,Stazzano (AL),R7,,,145.775000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.729167,8.875000,--:--
-03,FM Piemonte,Trontano (VCO),RU1,,,430.025000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,46.104167,8.291667,--:--
-03,FM Piemonte,Mornasco (AL),RU2a,,,430.062500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.645833,8.791667,--:--
-03,FM Piemonte,Mondovi' (CN),RU3,,,430.075000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.354167,7.791667,--:--
-03,FM Piemonte,Asti,RU5,,,430.125000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.895833,8.208333,--:--
-03,FM Piemonte,Corio (TO),RU6,,,430.150000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,45.354167,7.541667,--:--
-03,FM Piemonte,M. Mottarone (VCO),RU6a,,,430.162500,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,45.895833,8.458333,--:--
-03,FM Piemonte,Novi Ligure (AL),RU7,,,430.175000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.770833,8.791667,--:--
-03,FM Piemonte,La Morra (CN),RU8a,,,430.212500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.645833,7.958333,--:--
-03,FM Piemonte,M.Moncucco (VCO),RU8a,,,430.212500,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,46.104167,8.291667,--:--
-03,FM Piemonte,Acqui Terme (AL),RU9,,,430.225000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,44.604167,8.375000,--:--
-03,FM Piemonte,Perosa Argentina (TO),RU10,,,430.250000,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,44.937500,7.208333,--:--
-03,FM Piemonte,Serravalle (CN),RU10a,,,430.262500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.562500,8.041667,--:--
-03,FM Piemonte,Sampeyre (CN),RU11,,,430.275000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.562500,7.208333,--:--
-03,FM Piemonte,Neviglie (CN),RU11a,,,430.287500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.687500,8.125000,--:--
-03,FM Piemonte,Roccabruna (CN),RU12,,,430.300000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.479167,7.291667,--:--
-03,FM Piemonte,Angrogna - Val Pellice (TO),RU12a,,,430.312500,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,44.854167,7.208333,--:--
-03,FM Piemonte,Asti,RU13a,,,430.337500,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.895833,8.208333,--:--
-03,FM Piemonte,Loazzolo (AT),RU13a,,,430.337500,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.687500,8.291667,--:--
-03,FM Piemonte,Belforte M.to (AL),RU14a,,,430.362500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.604167,8.625000,--:--
-03,FM Piemonte,Bagnolo Piemonte-Montoso (CN),RU,,,430.425000,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,44.770833,7.291667,--:--
-03,FM Piemonte,Colle di Rucas (CN),RU,,,430.450000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.604167,8.291667,--:--
-03,FM Piemonte,Bagnolo Piemonte (CN),RU,,,430.600000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.770833,7.291667,--:--
-03,FM Piemonte,Torino,RU,,,430.612500,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,45.104167,7.708333,--:--
-03,FM Piemonte,M.Malanotte  (CN),RU,,,430.650000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,44.270833,7.791667,--:--
-03,FM Piemonte,Mombaruzzo (AT),RU,,,430.787500,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,44.770833,8.458333,--:--
-03,FM Piemonte,Celle-Villardora (TO),RU16a,,,431.237500,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.145833,7.375000,--:--
-03,FM Piemonte,Acqui Terme (AL),RU24,,,431.425000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.687500,8.458333,--:--
-03,FM Piemonte,Coniolo (AL),RU25a,,,431.462500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,45.145833,8.375000,--:--
-03,FM Piemonte,M.Mottarone (VCO),RU28,,,431.525000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,45.895833,8.458333,--:--
-03,FM Piemonte,Ovada (AL),T,,,435.212500,OFF,0.000000,FM,TONE,110.9Hz,YES,Approximate,44.604167,8.625000,--:--
-02,FM Liguria,Masone (GE),T,,,144.612500,OFF,0.000000,FM,TONE,82.5Hz,YES,Approximate,44.479167,8.708333,--:--
-02,FM Liguria,Pegli (GE),T,,,144.675000,OFF,0.000000,FM,TONE,162.2Hz,YES,Approximate,44.437500,8.791667,--:--
-02,FM Liguria,Rossiglione (GE),T,,,145.212500,OFF,0.000000,FM,TONE,82.5Hz,YES,Approximate,44.562500,8.708333,--:--
-02,FM Liguria,M.Telegrafo - Busalla (GE),T out,,,145.225000,OFF,0.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.875000,--:--
-02,FM Liguria,Cilona - Busalla (GE),T,,,145.312500,OFF,0.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.958333,--:--
-02,FM Liguria,M.Leco (GE),RV,,,145.437500,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.875000,--:--
-02,FM Liguria,M.Maggio (GE),T,,,145.437500,OFF,0.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,9.041667,--:--
-02,FM Liguria,Val Tanaro (IM),RV-1,,,145.575000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.145833,7.958333,--:--
-02,FM Liguria,M.Roveto-Busalla (GE),RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.604167,8.958333,--:--
-02,FM Liguria,M.Faudo (IM),R0,,,145.600000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,43.895833,7.875000,--:--
-02,FM Liguria,Genova,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.395833,8.958333,--:--
-02,FM Liguria,Lorsica (GE),R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.437500,9.208333,--:--
-02,FM Liguria,Cosseria (SV),R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.354167,8.208333,--:--
-02,FM Liguria,M.Bignone (IM),R2,,,145.650000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,43.854167,7.708333,--:--
-02,FM Liguria,Bardineto (SV),R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.062500,8.375000,--:--
-02,FM Liguria,M.Beigua (SV),R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.437500,8.541667,--:--
-02,FM Liguria,Tigullio (GE),R3a,,,145.687500,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.270833,9.541667,--:--
-02,FM Liguria,M.Figogna (GE),R4,,,145.700000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.437500,8.875000,--:--
-02,FM Liguria,Sanremo (IM),R4,,,145.700000,DUP-,0.600000,FM,TONE,162.2Hz,YES,Approximate,43.812500,7.708333,--:--
-02,FM Liguria,M.Fasce (GE),R5,,,145.725000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.395833,9.041667,--:--
-02,FM Liguria,Pizzo d'Evigno - Stellanello,R5a,,,145.737500,DUP-,0.600000,FM,TONE,162.2Hz,YES,Approximate,44.020833,8.041667,--:--
-02,FM Liguria,Rapallo (GE),R6,,,145.750000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.354167,9.208333,--:--
-02,FM Liguria,M.Tirasso - Alassio (SV) (SV),R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.020833,8.125000,--:--
-02,FM Liguria,Dolcedo (IM),R7,,,145.775000,DUP-,0.600000,FM,TONE,162.2Hz,YES,Approximate,43.895833,7.875000,--:--
-02,FM Liguria,Imperia,R7,,,145.775000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,43.895833,8.041667,--:--
-02,FM Liguria,Perinaldo (IM),R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.854167,7.625000,--:--
-02,FM Liguria,Finale Ligure (SV),R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.187500,8.375000,--:--
-02,FM Liguria,Cogorno (GE),RU0a,,,430.012500,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,44.312500,9.375000,--:--
-02,FM Liguria,Cosseria (SV),RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.354167,8.208333,--:--
-02,FM Liguria,M.Roveto - Busalla (GE),RU2,,,430.050000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.604167,8.958333,--:--
-02,FM Liguria,Montegrosso Pian Latte (IM),RU2a,,,430.062500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.062500,7.791667,--:--
-02,FM Liguria,Spotorno (SV),RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.187500,8.375000,--:--
-02,FM Liguria,San Nicolao (SP),RU3a,,,430.087500,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,44.270833,9.541667,--:--
-02,FM Liguria,M.Fasce (GE),RU5,,,430.125000,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,44.395833,9.125000,--:--
-02,FM Liguria,M.Figogna (GE),RU6,,,430.150000,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,44.437500,8.875000,--:--
-02,FM Liguria,T. Marconi-Sestri Levante (GE),RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.270833,9.375000,--:--
-02,FM Liguria,Finale Ligure (SV),RU7,,,430.175000,DUP+,1.600000,FM,TONE,162.2Hz,YES,Approximate,44.187500,8.375000,--:--
-02,FM Liguria,Santa Margherita Ligure (GE),RU7a,,,430.187500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.354167,9.208333,--:--
-02,FM Liguria,Bardineto (SV),RU8,,,430.200000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,44.187500,8.125000,--:--
-02,FM Liguria,Sant'Olcese (GE),RU11,,,430.275000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.479167,8.958333,--:--
-02,FM Liguria,Val Tanaro (IM),RU15a,,,430.387500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.145833,7.958333,--:--
-02,FM Liguria,M.Leco (GE),RU,,,430.462500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.875000,--:--
-02,FM Liguria,Albenga (SV),RU,,,430.475000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.020833,8.208333,--:--
-02,FM Liguria,M.Maggio - Savignone (GE),RU,,,430.487500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,9.041667,--:--
-02,FM Liguria,Val di Vara (SP),RU,,,430.575000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.354167,9.708333,--:--
-02,FM Liguria,M.Telegrafo - Busalla (GE),RU,,,430.625000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.875000,--:--
-02,FM Liguria,M.Maggio - Savignone (GE),RU,,,430.837500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,9.041667,--:--
-02,FM Liguria,Pegli (GE),T,,,433.487500,OFF,0.000000,FM,TONE,162.2Hz,YES,Approximate,44.437500,8.791667,--:--
-04,FM Lombardia,M.Pora (BG),T,,,144.650000,OFF,0.000000,FM,TONE,71.9Hz,YES,Approximate,45.895833,10.125000,--:--
-04,FM Lombardia,Darfo (BS),T,,,145.212500,OFF,0.000000,FM,TONE,71.9Hz,YES,Approximate,45.854167,10.208333,--:--
-04,FM Lombardia,Pigra - Valle d'Intelvi (CO),T,,,145.350000,OFF,0.000000,FM,TONE,156.7Hz,YES,Approximate,45.937500,9.125000,--:--
-04,FM Lombardia,Gallarate (VA),RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,45.687500,8.791667,--:--
-04,FM Lombardia,M.Maddalena (BS),R1,,,145.625000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.562500,10.291667,--:--
-04,FM Lombardia,Gravedona ed Uniti (CO),R1a,,,145.637500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,46.145833,9.291667,--:--
-04,FM Lombardia,M.Penice (PV),R2,,,145.650000,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,44.770833,9.291667,--:--
-04,FM Lombardia,Corni di Canzo (LC),R2a,,,145.662500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.854167,9.291667,--:--
-04,FM Lombardia,Monte della Neve - Livigno (SO),R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.479167,10.125000,--:--
-04,FM Lombardia,San Felice del Benaco (BS),R3a,,,145.687500,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,45.604167,10.541667,--:--
-04,FM Lombardia,M.Rolla (SO),R3a,,,145.687500,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,46.187500,9.875000,--:--
-04,FM Lombardia,Azzano S.Paolo (BG),R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.645833,9.708333,--:--
-04,FM Lombardia,Cigolino - Chiavenna (SO),R4,,,145.700000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,46.312500,9.375000,--:--
-04,FM Lombardia,M.Bisbino (CO),R4a,,,145.712500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.854167,9.041667,--:--
-04,FM Lombardia,Milano - Pirelli,R5,,,145.725000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.479167,9.208333,--:--
-04,FM Lombardia,Aprica -Magnolta (SO),R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.145833,10.125000,--:--
-04,FM Lombardia,Campo dei Fiori (VA),R5a,,,145.737500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.854167,8.791667,--:--
-04,FM Lombardia,Cernusco S.N. (MI),R6,,,145.750000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.520833,9.291667,--:--
-04,FM Lombardia,Sellero (BS),R6a,,,145.762500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,46.062500,10.291667,--:--
-04,FM Lombardia,Madesimo (SO),R7,,,145.775000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,46.437500,9.375000,--:--
-04,FM Lombardia,San Giovanni Bianco (BG),R7a,,,145.787500,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,45.895833,9.708333,--:--
-04,FM Lombardia,M.Boletto (CO),R7a,,,145.787500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.812500,9.125000,--:--
-04,FM Lombardia,M.Penice (PV),RU3,,,430.075000,DUP+,1.600000,FM,TONE,156.7Hz,YES,Approximate,44.770833,9.291667,--:--
-04,FM Lombardia,Bergamo,RU6,,,430.150000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.687500,9.625000,--:--
-04,FM Lombardia,M.Falecchio - Onore (BG),RU6a,,,430.162500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.895833,10.041667,--:--
-04,FM Lombardia,Milano - Pirelli,RU7,,,430.175000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.479167,9.208333,--:--
-04,FM Lombardia,Roncola (BG),RU8,,,430.200000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.729167,9.541667,--:--
-04,FM Lombardia,Milano - Missaglia,RU10a,,,430.262500,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,45.437500,9.208333,--:--
-04,FM Lombardia,M. Guglielmo (BS),RU11,,,430.275000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.770833,10.208333,--:--
-04,FM Lombardia,Civo (SO),RU11,,,430.275000,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,46.187500,9.625000,--:--
-04,FM Lombardia,Cermeledo (SO),RU12,,,430.300000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,46.145833,9.625000,--:--
-04,FM Lombardia,Magenta (MI),RU12a,,,430.312500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.479167,8.875000,--:--
-04,FM Lombardia,Roncola (BG),RU13,,,430.325000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.729167,9.541667,--:--
-04,FM Lombardia,M.Penice (PV),RU19,,,431.300000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,44.770833,9.291667,--:--
-04,FM Lombardia,Sacro Monte - Varese,RU29a,,,431.562500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.854167,8.791667,--:--
-04,FM Lombardia,Pigra - Valle d'Intelvi (CO),T,,,433.512500,OFF,0.000000,FM,TONE,156.7Hz,YES,Approximate,45.937500,9.125000,--:--
-04,FM Lombardia,Darfo (BS),T,,,435.112500,OFF,0.000000,FM,TONE,71.9Hz,YES,Approximate,45.854167,10.208333,--:--
-05,FM Veneto,Val di Zoldo (BL),RV,,,144.887500,DUP+,0.600000,FM,TONE,94.8Hz,YES,Approximate,46.354167,12.125000,--:--
-05,FM Veneto,Monastier (TV),RV,,,144.950000,DUP+,0.600000,FM,TONE,131.8Hz,YES,Approximate,45.937500,12.041667,--:--
-05,FM Veneto,M.Marmolada (BL),T,,,145.287500,OFF,0.000000,FM,TONE,131.8Hz,YES,Approximate,46.437500,11.875000,--:--
-05,FM Veneto,Gosaldo (BL),T,,,145.350000,OFF,0.000000,FM,TONE,127.3Hz,YES,Approximate,46.229167,11.958333,--:--
-05,FM Veneto,Selva di Cadore (BL),T,,,145.375000,OFF,0.000000,FM,TONE,94.8Hz,YES,Approximate,46.437500,12.041667,--:--
-05,FM Veneto,Cerealto (VI),RV,,,145.562500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,45.604167,11.291667,--:--
-05,FM Veneto,M.Grappa (VI),R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.854167,11.708333,--:--
-05,FM Veneto,M.Tudaio - Laggio di Cadore (BL),R1,,,145.625000,DUP-,0.600000,FM,TONE,131.8Hz,YES,Approximate,46.520833,12.458333,--:--
-05,FM Veneto,Venezia,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.437500,12.375000,--:--
-05,FM Veneto,Malga M. Corno - Lusiana (VI),R3,,,145.675000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,45.770833,11.541667,--:--
-05,FM Veneto,Bassano del Grappa (VI),R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.770833,11.708333,--:--
-05,FM Veneto,Bosco Chiesa Nuova (VR),R5,,,145.725000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,45.604167,11.041667,--:--
-05,FM Veneto,M.Pastelletto (VR),R7,,,145.775000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,45.604167,10.875000,--:--
-05,FM Veneto,M.Rite (BL),R7a,,,145.787500,DUP-,0.600000,FM,TONE,131.8Hz,YES,Approximate,46.395833,12.208333,--:--
-05,FM Veneto,Belluno,RU1,,,430.025000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,46.145833,12.208333,--:--
-05,FM Veneto,M.Grappa (VI),RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.812500,11.708333,--:--
-05,FM Veneto,M.Baldo (VR),RU2,,,430.050000,DUP+,5.025000,FM,TONE,94.8Hz,YES,Approximate,45.729167,10.875000,--:--
-05,FM Veneto,M.Rite (BL),RU2a,,,430.062500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,46.479167,12.291667,--:--
-05,FM Veneto,Posa Puner (TV),RU5,,,430.125000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,45.937500,12.041667,--:--
-05,FM Veneto,Col Visentin (TV),RU6a,,,430.162500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,46.062500,12.291667,--:--
-05,FM Veneto,M.Faverghera (BL),RU7a,,,430.187500,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,46.062500,12.291667,--:--
-05,FM Veneto,Thiene (VI),RU8,,,430.200000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.687500,11.458333,--:--
-05,FM Veneto,Verona,RU11,,,430.275000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.437500,11.041667,--:--
-05,FM Veneto,Monte Grande (PD),RU11a,,,430.287500,DUP+,1.600000,FM,TONE,131.8Hz,YES,Approximate,45.312500,12.041667,--:--
-05,FM Veneto,M.Grappa (VI),RU13,,,430.325000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.812500,11.708333,--:--
-05,FM Veneto,Campomolon (VI),RU14a,,,430.362500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.854167,11.291667,--:--
-05,FM Veneto,M.Grappa (VI),RU15a,,,430.387500,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.812500,11.708333,--:--
-05,FM Veneto,M.Tomba (VR),RU,,,430.412500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.687500,11.041667,--:--
-05,FM Veneto,Treviso,RU,,,430.500000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,45.687500,12.208333,--:--
-05,FM Veneto,Lido di Venezia (VE),RU,,,430.525000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.354167,12.291667,--:--
-05,FM Veneto,Roana - Altpiano Asiago (VI),RU,,,430.537500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.895833,11.458333,--:--
-05,FM Veneto,Bassano del Grappa (VI),RU,,,430.587500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.770833,11.708333,--:--
-05,FM Veneto,Enego (VI),RU,,,430.787500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.937500,11.625000,--:--
-05,FM Veneto,Marostica,RU,,,430.825000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.770833,11.625000,--:--
-05,FM Veneto,Monte Gallo - Colli Euganei (PD),RU,,,431.187500,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.312500,11.708333,--:--
-05,FM Veneto,Selva di Cadore (BL),T,,,433.462500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.437500,12.041667,--:--
-05,FM Veneto,Gosaldo (BL),T,,,433.462500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.229167,13.958333,--:--
-05,FM Veneto,M.Marmolada (BL),T,,,433.987500,OFF,0.000000,FM,TONE,131.8Hz,YES,Approximate,46.437500,11.875000,--:--
-09,FM Trentino,M.Macaion (BZ),T,,,145.312500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.687500,11.708333,--:--
-09,FM Trentino,Valle di Ledro (TN),RV,,,145.550000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,45.895833,10.708333,--:--
-09,FM Trentino,M.Seceda (BZ),T,,,145.562500,OFF,0.000000,FM,TONE,123.0Hz,YES,Approximate,46.479167,11.208333,--:--
-09,FM Trentino,Polsa di Brentonico (TN),R1,,,145.625000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,45.770833,10.958333,--:--
-09,FM Trentino,M.Panarotta (TN),R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.062500,11.375000,--:--
-09,FM Trentino,M.Telegrafo (BZ),R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.687500,11.708333,--:--
-09,FM Trentino,Castel Ivano (TN),R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.062500,11.541667,--:--
-09,FM Trentino,Roncone,R4,,,145.700000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,45.979167,10.708333,--:--
-09,FM Trentino,M.Hirzer (BZ),R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.729167,11.208333,--:--
-09,FM Trentino,M.Agaro (TN),R5a,,,145.737500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.104167,11.625000,--:--
-09,FM Trentino,M.Bondone (TN),R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.062500,11.125000,--:--
-09,FM Trentino,M.Macaion (BZ),R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.479167,11.208333,--:--
-09,FM Trentino,Cima Palon-M.Bondone (TN),RU4a,,,430.112500,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,46.020833,11.041667,--:--
-09,FM Trentino,M. Finonchio (TN),RU8,,,430.200000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,45.937500,11.125000,--:--
-09,FM Trentino,M.Seceda (BZ),T,,,435.025000,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.604167,11.708333,--:--
-10,FM Friuli,Muggia (TS),R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.604167,13.791667,--:--
-10,FM Friuli,Latisana (UD),R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.770833,12.958333,--:--
-10,FM Friuli,Cividale del Friuli (UD),R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.187500,13.458333,--:--
-10,FM Friuli,Gorizia,R2a,,,145.662500,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,45.937500,13.625000,--:--
-10,FM Friuli,M.Lussari (UD),R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.479167,13.541667,--:--
-10,FM Friuli,M.Verzegnis (UD),R3a,,,145.687500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.354167,12.958333,--:--
-10,FM Friuli,M.San Simeone (UD),R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.354167,13.125000,--:--
-10,FM Friuli,M.Jouf (PN),R7,,,145.775000,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,46.187500,12.708333,--:--
-10,FM Friuli,M.Jouf (PN),RU1,,,430.025000,DUP+,1.600000,FM,TONE,118.8Hz,YES,Approximate,46.187500,12.708333,--:--
-10,FM Friuli,Reana (UD),RU7,,,430.175000,DUP+,1.600000,FM,TONE,118.8Hz,YES,Approximate,46.145833,13.208333,--:--
-10,FM Friuli,Tolmezzo (UD),RU8,,,430.200000,DUP+,1.600000,FM,TONE,118.8Hz,YES,Approximate,46.437500,12.958333,--:--
-10,FM Friuli,M.Jouf (PN),RU10,,,430.250000,DUP+,1.600000,FM,TONE,123.0Hz,YES,Approximate,46.187500,12.708333,--:--
-10,FM Friuli,M.Zoncolan (UD),T,,,430.437500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.520833,12.958333,--:--
-10,FM Friuli,Palmanova (UD),RU,,,430.500000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.895833,13.291667,--:--
-10,FM Friuli,M.Grisa (TS),RU22a,,,431.387500,DUP+,1.600000,FM,TONE,118.8Hz,YES,Approximate,45.687500,13.708333,--:--
-06,FM Emilia Romagna,Spilamberto (MO,T in,,,144.662500,OFF,0.000000,FM,TONE,131.8Hz,YES,Approximate,44.520833,11.041667,--:--
-06,FM Emilia Romagna,Oriolo dei Fichi-Faenza (RA),T in,,,144.937500,OFF,0.000000,FM,TONE,77.0Hz,YES,Approximate,44.229167,11.875000,--:--
-06,FM Emilia Romagna,Lama di Moccogno (MO),R0,,,145.600000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.270833,10.625000,--:--
-06,FM Emilia Romagna,Rimini,R0,,,145.600000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.062500,12.541667,--:--
-06,FM Emilia Romagna,Modigliana (FC),R0a,,,145.612500,DUP-,0.600000,FM,TONE,141.3Hz,YES,Approximate,44.145833,11.791667,--:--
-06,FM Emilia Romagna,Pianoro (BO),R1a,,,145.637500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.437500,11.375000,--:--
-06,FM Emilia Romagna,Bertinoro (FO),R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.145833,12.125000,--:--
-06,FM Emilia Romagna,Ferrara,R2,,,145.650000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.812500,11.625000,--:--
-06,FM Emilia Romagna,M.Coroncina (BO),R2a,,,145.662500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.104167,11.208333,--:--
-06,FM Emilia Romagna,Parma,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.812500,10.375000,--:--
-06,FM Emilia Romagna,Castel Maggiore (BO),R3a,,,145.687500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.562500,11.375000,--:--
-06,FM Emilia Romagna,M.Ghebbio (RA),R4a,,,145.712500,DUP-,0.600000,FM,TONE,141.3Hz,YES,Approximate,44.270833,11.708333,--:--
-06,FM Emilia Romagna,Casina (RE),R4a,,,145.712500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.520833,10.458333,--:--
-06,FM Emilia Romagna,Montovolo (BO),R5,,,145.725000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.229167,11.125000,--:--
-06,FM Emilia Romagna,M.Fumaiolo (FO),R5a,,,145.737500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.770833,12.041667,--:--
-06,FM Emilia Romagna,M.Cimone (MO),R6a,,,145.762500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.187500,10.708333,--:--
-06,FM Emilia Romagna,Casina (RE),RU0a,,,430.012500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.520833,10.458333,--:--
-06,FM Emilia Romagna,Barbiano (BO),RU1a,,,430.037500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.437500,11.375000,--:--
-06,FM Emilia Romagna,Montagnana (MO),RU2a,,,430.062500,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.479167,10.791667,--:--
-06,FM Emilia Romagna,M.Trebbio (FO),RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.145833,11.875000,--:--
-06,FM Emilia Romagna,Ferrara,RU3a,,,430.087500,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,44.854167,11.625000,--:--
-06,FM Emilia Romagna,M.Cassio (PR),RU5,,,430.125000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.604167,10.041667,--:--
-06,FM Emilia Romagna,Bagnacavallo (RA),RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.437500,11.958333,--:--
-06,FM Emilia Romagna,Pianoro (BO),RU7,,,430.175000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.437500,11.375000,--:--
-06,FM Emilia Romagna,Gropparello (PC),RU9,,,430.225000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.854167,9.708333,--:--
-06,FM Emilia Romagna,M.Pepi - Bedonia (PR),RU13,,,430.325000,DUP+,1.600000,FM,TONE,141.3Hz,YES,Approximate,44.562500,9.625000,--:--
-06,FM Emilia Romagna,Parma,RU14,,,430.350000,DUP+,1.600000,FM,TONE,141.3Hz,YES,Approximate,44.812500,10.375000,--:--
-06,FM Emilia Romagna,Casalgrande (RE),RU15,,,430.375000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.562500,10.708333,--:--
-06,FM Emilia Romagna,Casella - Ozzano dell'Emilia (BO),RU,,,430.562500,DUP+,5.000000,FM,TONE,77.0Hz,YES,Approximate,44.354167,11.458333,--:--
-06,FM Emilia Romagna,M.Canate (PR),RU,,,430.725000,DUP+,4.675000,FM,TONE,77.0Hz,YES,Approximate,44.770833,9.958333,--:--
-06,FM Emilia Romagna,Cesenatico (FC),RU18,,,431.275000,DUP+,1.600000,FM,TONE,141.3Hz,YES,Approximate,44.187500,12.375000,--:--
-06,FM Emilia Romagna,Colli Piacentini (PC),RU18,,,431.275000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.812500,9.625000,--:--
-06,FM Emilia Romagna,Montovolo (BO),RU19a,,,431.312500,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.229167,11.125000,--:--
-06,FM Emilia Romagna,M.Molinatico (PR),RU21,,,431.350000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.479167,9.875000,--:--
-06,FM Emilia Romagna,Modigliana (FC),RU24a,,,431.437500,DUP+,1.600000,FM,TONE,141.3Hz,YES,Approximate,44.145833,11.791667,--:--
-06,FM Emilia Romagna,Spilamberto (MO,T out,,,432.637500,OFF,0.000000,FM,TONE,131.8Hz,YES,Approximate,44.520833,11.041667,--:--
-07,FM Toscana,Val Bisenzio (PO),T,,,144.562500,OFF,0.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.125000,--:--
-07,FM Toscana,M.Amiata (GR),T in,,,144.625000,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,42.895833,11.625000,--:--
-07,FM Toscana,Campiglia Marittima (LI),T,,,144.675000,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,43.062500,10.625000,--:--
-07,FM Toscana,Val Bisenzio (PO),T,,,144.687500,OFF,0.000000,FM,TONE,79.7Hz,YES,Approximate,44.104167,11.125000,--:--
-07,FM Toscana,Campi (SI),T,,,144.687500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,43.395833,11.458333,--:--
-07,FM Toscana,Treggiaia Pontedera (PI),RV,,,145.537500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,43.604167,10.708333,--:--
-07,FM Toscana,M.Amiata (GR),RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,42.895833,11.625000,--:--
-07,FM Toscana,M.Faggeta (AR),R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.604167,11.958333,--:--
-07,FM Toscana,Montenero (LI),R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.479167,10.375000,--:--
-07,FM Toscana,Val Bisenzio (PO),R1,,,145.625000,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.125000,--:--
-07,FM Toscana,M.Amiata (GR),R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.895833,11.625000,--:--
-07,FM Toscana,Montieri (GR),R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.145833,10.958333,--:--
-07,FM Toscana,Campocecina (MS),R3a,,,145.687500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,44.104167,10.125000,--:--
-07,FM Toscana,M.Labro (GR),R4a,,,145.712500,DUP-,0.600000,FM,TONE,136.5Hz,YES,Approximate,42.812500,11.541667,--:--
-07,FM Toscana,San Vincenzo (LI),R5,,,145.725000,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,43.104167,10.541667,--:--
-07,FM Toscana,Prato (PO),R5,,,145.725000,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,43.812500,11.208333,--:--
-07,FM Toscana,Poggio Valicaia (FI),R5a,,,145.737500,DUP-,0.600000,FM,TONE,146.2Hz,YES,Approximate,43.770833,11.208333,--:--
-07,FM Toscana,Cima del Monte - Elba (LI),R5a,,,145.737500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,42.812500,10.375000,--:--
-07,FM Toscana,M.Secchieta (FI),R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.729167,11.541667,--:--
-07,FM Toscana,Campocecina (MS),R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,10.125000,--:--
-07,FM Toscana,Seravezza (LU),R7,,,145.775000,DUP-,0.600000,FM,TONE,114.8Hz,YES,Approximate,44.020833,10.208333,--:--
-07,FM Toscana,Siena,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.395833,11.458333,--:--
-07,FM Toscana,M.Secchieta (FI),R7a,,,145.787500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,43.729167,11.541667,--:--
-07,FM Toscana,M.Oppio - San Marcello Pist. (PT),RU1,,,430.025000,DUP+,1.600000,FM,TONE,79.7Hz,YES,Approximate,44.020833,10.791667,--:--
-07,FM Toscana,Campocecina (MS),RU3a,,,430.087500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,10.125000,--:--
-07,FM Toscana,M.Secchieta (FI),RU4,,,430.100000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.729167,11.541667,--:--
-07,FM Toscana,M.Grosso (MS),RU4a,,,430.112500,DUP+,1.600000,FM,TONE,79.7Hz,YES,Approximate,44.229167,9.958333,--:--
-07,FM Toscana,M.Faggeta (AR),RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.604167,11.958333,--:--
-07,FM Toscana,Grosseto,RU5,,,430.125000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,42.812500,11.125000,--:--
-07,FM Toscana,Campocecina (MS),RU6,,,430.150000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,10.125000,--:--
-07,FM Toscana,Poggio Alberaccio (FI),RU8a,,,430.212500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.770833,11.375000,--:--
-07,FM Toscana,Zeri -M.Fabei (MS),RU9a,,,430.237500,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.395833,9.708333,--:--
-07,FM Toscana,Frascole-Dicomano (FI),RU12,,,430.300000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.895833,11.541667,--:--
-07,FM Toscana,Monte Meto (LU),RU12a,,,430.312500,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.895833,10.291667,--:--
-07,FM Toscana,Civitella della Chiana (AR),RU13,,,430.325000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,43.437500,11.708333,--:--
-07,FM Toscana,Poggio Valicaia (FI),RU13,,,430.325000,DUP+,1.600000,FM,TONE,146.2Hz,YES,Approximate,43.729167,11.125000,--:--
-07,FM Toscana,M.Aquilaia (GR),RU14,,,430.350000,DUP+,5.000000,FM,TONE,136.5Hz,YES,Approximate,42.854167,11.458333,--:--
-07,FM Toscana,Poggio Firenze (FI),RU14a,,,430.362500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.687500,11.375000,--:--
-07,FM Toscana,Cortona (AR),RU,,,430.400000,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,43.270833,11.958333,--:--
-07,FM Toscana,Val Bisenzio (PO),RU,,,430.400000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.979167,11.125000,--:--
-07,FM Toscana,Val Bisenzio (PO),RU,,,430.425000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.208333,--:--
-07,FM Toscana,Volterra (PI),RU,,,430.450000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.395833,10.875000,--:--
-07,FM Toscana,Treggiaia (PI),RU,,,430.475000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.604167,10.708333,--:--
-07,FM Toscana,M.Amiata (GR),RU,,,430.500000,DUP+,5.000000,FM,TONE,136.5Hz,YES,Approximate,42.895833,11.625000,--:--
-07,FM Toscana,Monte Capanne- Elba (LI),RU,,,430.525000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,42.770833,10.208333,--:--
-07,FM Toscana,Casalguidi (PT),RU,,,430.525000,DUP+,5.000000,FM,TONE,146.2Hz,YES,Approximate,43.854167,10.875000,--:--
-07,FM Toscana,Monte Caselle (LI),RU,,,430.650000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,42.937500,10.541667,--:--
-07,FM Toscana,Val Bisenzio (PO),RU,,,430.700000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.104167,11.125000,--:--
-07,FM Toscana,Val Bisenzio (PO),RU,,,430.725000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.041667,--:--
-07,FM Toscana,Val Bisenzio (PO),RU15a,,,430.750000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.125000,--:--
-07,FM Toscana,Monte Giovi - Vicchio (FI),RU,,,430.850000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.895833,11.458333,--:--
-07,FM Toscana,Val Bisenzio (PO),T,,,430.987500,OFF,0.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.125000,--:--
-07,FM Toscana,Poggio Ciliegio (PO),RU16,,,431.225000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.812500,11.208333,--:--
-07,FM Toscana,Poggio Ciliegio (PO),RU21,,,431.350000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.812500,11.208333,--:--
-07,FM Toscana,M.Labro (GR),RU24,,,431.425000,DUP+,1.600000,FM,TONE,131.8Hz,YES,Approximate,42.812500,11.541667,--:--
-07,FM Toscana,M.Serra (LU),RU31a,,,431.612500,DUP+,1.600000,FM,TONE,79.7Hz,YES,Approximate,43.770833,10.541667,--:--
-07,FM Toscana,Campiglia Marittima (LI),T,,,432.675000,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,43.062500,10.625000,--:--
-07,FM Toscana,Campi (SI),T,,,432.687500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,43.395833,11.458333,--:--
-18,FM Marche,M.Ascensione (AP),R0,,,145.600000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,42.937500,13.541667,--:--
-18,FM Marche,M.La Croce (AN),R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.395833,12.958333,--:--
-18,FM Marche,San Benedetto del Tronto (AP),R4a,,,145.712500,DUP-,0.600000,FM,TONE,85.4Hz,YES,Approximate,42.937500,13.875000,--:--
-18,FM Marche,Ancona,R5,,,145.725000,DUP-,0.600000,FM,TONE,85.4Hz,YES,Approximate,43.604167,13.541667,--:--
-18,FM Marche,Potenza Picena (MC),R7,,,145.775000,DUP-,0.600000,FM,TONE,85.4Hz,YES,Approximate,43.354167,13.625000,--:--
-18,FM Marche,Ancona,RU7,,,430.175000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.604167,13.541667,--:--
-18,FM Marche,M.La Croce (AN),RU8,,,430.200000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.395833,12.958333,--:--
-18,FM Marche,Senigallia (AN),RU9,,,430.225000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.645833,13.208333,--:--
-18,FM Marche,Montegrimano (PU),RU21,,,431.350000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.854167,12.458333,--:--
-18,FM Marche,Montefelcino (PU),RU28,,,431.525000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.770833,12.791667,--:--
-18,FM Marche,Falconara (AN),RU29,,,431.550000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.604167,13.375000,--:--
-18,FM Marche,Monte Cucco (AN),RU30a,,,431.587500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.354167,12.791667,--:--
-18,FM Marche,Monte Aria-Macerata,RU31,,,431.600000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.187500,13.125000,--:--
-15,FM Abruzzo,Le Serre di Goriano (AQ),R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.062500,13.791667,--:--
-15,FM Abruzzo,Campo Imperatore (AQ),R1,,,145.625000,DUP-,0.600000,FM,TONE,97.4Hz,YES,Approximate,42.437500,13.541667,--:--
-15,FM Abruzzo,M.Freddo (AQ),R2a,,,145.662500,DUP-,0.600000,FM,TONE,97.4Hz,YES,Approximate,42.145833,13.458333,--:--
-15,FM Abruzzo,Colle SanGiacomo (AQ),R3,,,145.675000,DUP-,0.600000,FM,TONE,97.4Hz,YES,Approximate,42.354167,13.458333,--:--
-15,FM Abruzzo,Santo Stefano - Torricella (TE),R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.645833,13.625000,--:--
-15,FM Abruzzo,M.Maiella (PE),R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.145833,14.125000,--:--
-15,FM Abruzzo,Roccaraso (AQ),R4a,,,145.712500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.854167,14.041667,--:--
-15,FM Abruzzo,Colle Badette-Tortoreto (TE),R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.812500,13.875000,--:--
-15,FM Abruzzo,Prati di Tivo (TE),R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.479167,13.541667,--:--
-15,FM Abruzzo,San Benedetto in Perillis (AQ),R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.187500,13.791667,--:--
-15,FM Abruzzo,Liscia (CH),R6a,,,145.762500,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,41.937500,14.541667,--:--
-15,FM Abruzzo,Citta' S.Angelo (PE),R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.520833,14.041667,--:--
-15,FM Abruzzo,M.Le Serre (AQ),RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.395833,13.708333,--:--
-15,FM Abruzzo,M.Piselli (TE),RU1,,,430.025000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,42.770833,13.541667,--:--
-15,FM Abruzzo,M.Ocre - Campo Felice (AQ),RU5,,,430.125000,DUP+,1.600000,FM,TONE,97.4Hz,YES,Approximate,42.312500,13.375000,--:--
-15,FM Abruzzo,M.Freddo (AQ),RU7,,,430.175000,DUP+,1.600000,FM,TONE,97.4Hz,YES,Approximate,42.145833,13.458333,--:--
-15,FM Abruzzo,M.Maiella (PE),RU8,,,430.200000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.145833,14.125000,--:--
-15,FM Abruzzo,M.Luco di Roio (AQ),RU15,,,430.375000,DUP+,1.600000,FM,TONE,97.4Hz,YES,Approximate,42.354167,13.375000,--:--
-18,FM Marche,M.Nerone (PU),RU30,,,431.575000,DUP+,4.000000,FM,OFF,88.5Hz,YES,Approximate,43.562500,12.541667,--:--
-20,FM Molise,S.Angelo Limosano (CB),R3a,,,145.687500,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.687500,14.625000,--:--
-20,FM Molise,M.Patalecchia (IS),R6,,,145.750000,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.562500,14.375000,--:--
-20,FM Molise,Rionero Sannitico (IS),RU6,,,430.150000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.395833,14.125000,--:--
-20,FM Molise,Guglionesi (CB),RU6a,,,430.162500,DUP+,1.600000,FM,TONE,103.5Hz,YES,Approximate,41.937500,14.875000,--:--
-20,FM Molise,Rionero Sannitico (IS),RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.729167,14.125000,--:--
-08,FM Puglia,Mola di Bari (BA),R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.062500,17.125000,--:--
-08,FM Puglia,Cassano Murge (BA),R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.895833,16.791667,--:--
-08,FM Puglia,Sava,R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.395833,17.541667,--:--
-08,FM Puglia,Molfetta -Zona ASI (BA),R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.229167,16.541667,--:--
-08,FM Puglia,Montesardo (LE),R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.854167,18.375000,--:--
-08,FM Puglia,Martinafranca (TA),R1a,,,145.637500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,40.687500,17.375000,--:--
-08,FM Puglia,Statte (TA),R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.562500,17.208333,--:--
-08,FM Puglia,Minervino Murge (BA),R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.104167,16.041667,--:--
-08,FM Puglia,Taranto,R3,,,145.675000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,40.479167,17.291667,--:--
-08,FM Puglia,Bari,R4a,,,145.712500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.104167,16.875000,--:--
-08,FM Puglia,Selva di Fasano (BR),R5,,,145.725000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,40.854167,17.375000,--:--
-08,FM Puglia,Castellaneta (TA),R5,,,145.725000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,40.604167,16.875000,--:--
-08,FM Puglia,Minervino Murge (BT),R5a,,,145.737500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,41.104167,16.125000,--:--
-08,FM Puglia,Mottola (TA),R6a,,,145.762500,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,40.645833,17.041667,--:--
-08,FM Puglia,M.Nero (FG),R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.729167,15.708333,--:--
-08,FM Puglia,Lecce,R7a,,,145.787500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,40.312500,18.125000,--:--
-08,FM Puglia,Lecce,R7a,,,145.787500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,40.312500,18.125000,--:--
-16,FM Campania,Napoli,RU1,,,430.025000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.854167,14.208333,--:--
-08,FM Puglia,Bari,RU2,,,430.050000,DUP+,5.000000,FM,TONE,100.0Hz,YES,Approximate,41.104167,16.875000,--:--
-08,FM Puglia,Mottola (TA),RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.687500,17.125000,--:--
-08,FM Puglia,Minervino Murge (BT),RU5,,,430.125000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,41.104167,16.125000,--:--
-08,FM Puglia,Cassano Murge (BA),RU6,,,430.150000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.895833,16.791667,--:--
-08,FM Puglia,Mola di Bari (BA),RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.062500,17.125000,--:--
-08,FM Puglia,Monte Sant'Angelo (FG),RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.854167,15.958333,--:--
-08,FM Puglia,Ginosa (TA),RU8,,,430.200000,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,40.562500,16.791667,--:--
-08,FM Puglia,M.S.Angelo (FG),RU9,,,430.225000,DUP+,1.600000,FM,TONE,100.0Hz,YES,Approximate,41.687500,15.958333,--:--
-08,FM Puglia,Giovinazzo (BA),RU9a,,,430.237500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.187500,16.625000,--:--
-08,FM Puglia,Rutigliano (BA),RU10,,,430.250000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,41.020833,17.041667,--:--
-08,FM Puglia,Bari,RU14,,,430.350000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.020833,16.958333,--:--
-16,FM Campania,M.Vesuvio (NA),RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.812500,14.375000,--:--
-16,FM Campania,Santa Marina (SA),RV-1a,,,145.587500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.104167,15.541667,--:--
-16,FM Campania,Ischia (NA),R0,,,145.600000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.729167,13.875000,--:--
-16,FM Campania,Pozzuoli (NA),R1,,,145.625000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.854167,14.125000,--:--
-16,FM Campania,Pietraroja (BN),R1a,,,145.637500,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,41.354167,14.541667,--:--
-16,FM Campania,M.Stella Cilento (SA),R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.229167,15.041667,--:--
-16,FM Campania,Ischia (NA),R2,,,145.650000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.729167,13.958333,--:--
-16,FM Campania,Roccamonfina (CE),R3,,,145.675000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,41.270833,13.958333,--:--
-16,FM Campania,Caserta,R4,,,145.700000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,41.104167,14.375000,--:--
-16,FM Campania,Sala Consilina (SA),R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.395833,15.625000,--:--
-16,FM Campania,Chiusano San Domenico (AV),R5,,,145.725000,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,40.937500,14.958333,--:--
-16,FM Campania,San Marco ai Monti (BN),R5a,,,145.737500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,41.062500,14.791667,--:--
-16,FM Campania,M.Vesole (SA),R5a,,,145.737500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.395833,15.125000,--:--
-16,FM Campania,M.Pizzone (AV),R6,,,145.750000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.895833,14.708333,--:--
-16,FM Campania,Portici (NA),R6a,,,145.762500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.812500,14.375000,--:--
-16,FM Campania,M.Tubenna (SA),R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.729167,14.875000,--:--
-16,FM Campania,m. S. Liberatore - Cava deTirreni,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.687500,14.708333,--:--
-16,FM Campania,Capua (CE),RU1,,,430.025000,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,41.104167,14.208333,--:--
-16,FM Campania,M.S.Angelo (SA),RU3,,,430.075000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.729167,14.625000,--:--
-16,FM Campania,M. S. Liberatore - Cava deTirreni,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.687500,14.708333,--:--
-16,FM Campania,Sessa Aurunca (CE),RU9,,,430.225000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.229167,13.958333,--:--
-16,FM Campania,Roccamonfina (CE),RU11a,,,430.287500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,41.312500,13.958333,--:--
-16,FM Campania,M.Vergine (AV),RU12,,,430.300000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.937500,14.708333,--:--
-16,FM Campania,M.S.Angelo (SA),RU15,,,430.375000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.729167,14.625000,--:--
-16,FM Campania,M.Somma (NA),RU15a,,,430.387500,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,40.854167,14.458333,--:--
-16,FM Campania,M.Taburno (BN),RU18a,,,431.287500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,41.104167,14.625000,--:--
-16,FM Campania,Pozzuoli (NA),RU22,,,431.375000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.854167,14.125000,--:--
-16,FM Campania,Pozzuoli (NA),RU25a,,,431.462500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.812500,14.125000,--:--
-19,FM Basilicata,M.Pierfaone (PZ),R0,,,145.600000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,40.520833,15.791667,--:--
-19,FM Basilicata,M.Pierfaone (PZ),RU3a,,,430.087500,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,40.520833,15.791667,--:--
-19,FM Basilicata,Banzi (PZ),RU,,,430.500000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,40.895833,16.041667,--:--
-13,FM Calabria,Barrittieri di Seminara (RC),RV,,,145.300000,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.312500,15.875000,--:--
-13,FM Calabria,Pietrapennata (RC),T,,,145.462500,OFF,0.000000,FM,TONE,77.0Hz,YES,Approximate,38.979167,14.041667,--:--
-13,FM Calabria,San Lorenzo Superiore (RC),RV,,,145.562500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.791667,--:--
-13,FM Calabria,San Lorenzo di Reggio Calabria,RV,,,145.562500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.875000,--:--
-13,FM Calabria,M.Bucolia (CZ),RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.979167,16.291667,--:--
-13,FM Calabria,Monte San Demetrio (RC),RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.062500,15.708333,--:--
-13,FM Calabria,M.Poro (CZ),R0a,,,145.612500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.604167,15.875000,--:--
-13,FM Calabria,Montechiarello (RC),R1,,,145.625000,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.145833,15.708333,--:--
-13,FM Calabria,Galatro (RC),R1a,,,145.637500,DUP-,0.600000,FM,TONE,141.8Hz,YES,Approximate,38.437500,16.125000,--:--
-13,FM Calabria,Catanzaro,R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.895833,16.625000,--:--
-13,FM Calabria,Mancino (RC),R2,,,145.650000,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.354167,16.375000,--:--
-13,FM Calabria,Villa San Giovanni (RC),R3a,,,145.687500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,38.229167,15.625000,--:--
-13,FM Calabria,Joppolo - M.Poro (VV),R3a,,,145.687500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.604167,15.875000,--:--
-13,FM Calabria,Gasperina (CZ),R4,,,145.700000,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.729167,16.541667,--:--
-13,FM Calabria,M.Botte Donato (CS),R4a,,,145.712500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,39.270833,16.458333,--:--
-13,FM Calabria,Lappano (CS),R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.312500,16.291667,--:--
-13,FM Calabria,San Vito Serralta (CZ),R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.770833,16.375000,--:--
-13,FM Calabria,Polistena (RC),R5a,,,145.737500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.395833,16.041667,--:--
-13,FM Calabria,M.Cozzo Cervello (CS),R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.395833,16.125000,--:--
-13,FM Calabria,S.Stefano d'Aspromonte (RC),RU1,,,430.025000,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,38.145833,15.875000,--:--
-13,FM Calabria,M.S.Andrea (RC),RU2,,,430.050000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.937500,16.458333,--:--
-13,FM Calabria,San Giovanni in Fiore (CS),RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.270833,16.708333,--:--
-13,FM Calabria,Catanzaro,RU4,,,430.100000,DUP+,5.000000,FM,TONE,107.2Hz,YES,Approximate,38.979167,16.291667,--:--
-13,FM Calabria,Campicello (RC),RU5a,,,430.137500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,38.020833,15.708333,--:--
-13,FM Calabria,Serra Crista - Acri (CS),RU6,,,430.150000,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,39.479167,16.375000,--:--
-13,FM Calabria,Monte Scuro (CS),RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.312500,16.375000,--:--
-13,FM Calabria,Pietrapennata (RC),RU9,,,430.225000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.979167,14.041667,--:--
-13,FM Calabria,Reggio Calabria,RU11,,,430.275000,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,38.187500,15.625000,--:--
-13,FM Calabria,Villa San Giovanni (RC),RU13,,,430.325000,DUP+,1.600000,FM,TONE,79.7Hz,YES,Approximate,38.229167,15.625000,--:--
-13,FM Calabria,Filandari (VV),RU,,,430.500000,DUP+,5.000000,FM,TONE,107.2Hz,YES,Approximate,38.979167,16.291667,--:--
-13,FM Calabria,San Lorenzo Superiore (RC),RU24,,,431.437500,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.791667,--:--
-13,FM Calabria,San Lorenzo di Reggio Calabria,RU24a,,,431.437500,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.875000,--:--
-13,FM Calabria,Barrittieri di Seminara (RC),T,,,432.100000,OFF,0.000000,FM,TONE,107.2Hz,YES,Approximate,38.312500,15.875000,--:--
-13,FM Calabria,Pellaro (RC),T,,,435.012500,OFF,0.000000,FM,TONE,94.8Hz,YES,Approximate,38.020833,14.291667,--:--
-14,FM Sicilia,Colle Tirone -Avola,T,,,145.212500,OFF,0.000000,FM,TONE,123.0Hz,YES,Approximate,36.895833,15.125000,--:--
-14,FM Sicilia,Nizza di Sicilia (ME),T,,,145.412500,OFF,0.000000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.375000,--:--
-14,FM Sicilia,Roccafiorita (ME),T,,,145.437500,OFF,0.000000,FM,TONE,77.0Hz,YES,Approximate,38.937500,15.291667,--:--
-14,FM Sicilia,Giarre CT),RV,,,145.475000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.729167,15.125000,--:--
-14,FM Sicilia,Portella (ME),RV,,,145.500000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.854167,14.708333,--:--
-14,FM Sicilia,Salemi (TP),RV-1,,,145.575000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,36.812500,14.791667,--:--
-14,FM Sicilia,Ribera (AG),R0,,,145.600000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.520833,13.291667,--:--
-14,FM Sicilia,Ragusa,R0,,,145.600000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.020833,14.708333,--:--
-14,FM Sicilia,Venetico (ME),R0a,,,145.612500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.229167,15.375000,--:--
-14,FM Sicilia,Pantelleria,R0a,,,145.612500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,36.770833,12.041667,--:--
-14,FM Sicilia,C. Umberto (ME),R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.104167,14.791667,--:--
-14,FM Sicilia,Cefalu' (PA),R1,,,145.625000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.979167,14.041667,--:--
-14,FM Sicilia,M.Meli - Siculiana (AG),R1a,,,145.637500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.354167,13.458333,--:--
-14,FM Sicilia,Tipoldo (ME),R1a,,,145.637500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.145833,15.458333,--:--
-14,FM Sicilia,Murfi -Buseto Palizzolo,R1a,,,145.637500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.020833,14.541667,--:--
-14,FM Sicilia,Caltanisetta,R2,,,145.650000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.479167,14.041667,--:--
-14,FM Sicilia,M.Kalfa - Roccafiorita,R2,,,145.650000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.937500,15.291667,--:--
-14,FM Sicilia,M.S.Angelo - Lipari (MS),R2,,,145.650000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.479167,14.958333,--:--
-14,FM Sicilia,Partanna (TP),R2,,,145.650000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.729167,12.875000,--:--
-14,FM Sicilia,Messina,R2a,,,145.662500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,38.229167,15.541667,--:--
-14,FM Sicilia,M.Rotondo (ME),R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.104167,14.791667,--:--
-14,FM Sicilia,Gioiosa Marea (ME),R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.187500,14.875000,--:--
-14,FM Sicilia,Plemmirio (SR),R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,37.020833,15.291667,--:--
-14,FM Sicilia,Niscemi (CL),R3a,,,145.687500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,37.145833,14.375000,--:--
-14,FM Sicilia,Linguaglossa (CT),R3a,,,145.687500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.812500,15.125000,--:--
-14,FM Sicilia,M.Pecoraro - Cinisi (PA),R3a,,,145.687500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.145833,13.125000,--:--
-14,FM Sicilia,Palermo,R4,,,145.700000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.104167,13.291667,--:--
-14,FM Sicilia,M. Pellegrino (PA),R4,,,145.700000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.145833,13.375000,--:--
-14,FM Sicilia,Santo Stefano Quisquina (AG),R4a,,,145.712500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.604167,13.541667,--:--
-14,FM Sicilia,M.Etna (CT),R5,,,145.725000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.770833,15.041667,--:--
-14,FM Sicilia,Partanna (TP),R5,,,145.725000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.729167,12.875000,--:--
-14,FM Sicilia,Castellanmare del Golfo (TP),R5a,,,145.737500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,38.020833,12.875000,--:--
-14,FM Sicilia,Pizzo Chiarino (ME),R6,,,145.750000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.187500,15.458333,--:--
-14,FM Sicilia,Ispica (RG),R6a,,,145.762500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,36.770833,14.875000,--:--
-14,FM Sicilia,M.Erice (TP),R7,,,145.775000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.020833,12.625000,--:--
-14,FM Sicilia,M.Pellegrino (PA),R7a,,,145.787500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.145833,13.375000,--:--
-14,FM Sicilia,M.Arcibessi  Chiaramonte Gulfi (RG),R7a,,,145.787500,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,37.020833,14.708333,--:--
-14,FM Sicilia,Caltabellotta (TP),R7a,,,145.787500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.604167,13.208333,--:--
-14,FM Sicilia,Caltagirone (CT),RU1,,,430.025000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.229167,14.541667,--:--
-14,FM Sicilia,Marina di Ragusa (RG),RU1,,,430.025000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,36.770833,14.541667,--:--
-14,FM Sicilia,Catania,RU2,,,430.050000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,37.520833,15.125000,--:--
-14,FM Sicilia,S.Margherita di Belice (AG),RU3,,,430.075000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,37.687500,13.041667,--:--
-14,FM Sicilia,Belvedere di Siracusa (SR),RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,37.104167,15.208333,--:--
-14,FM Sicilia,Pizzo Chiarino (ME),RU4,,,430.100000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,38.187500,15.458333,--:--
-14,FM Sicilia,Vita (TP),RU4,,,430.100000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,37.854167,12.791667,--:--
-14,FM Sicilia,M.Veneretta (ME),RU5,,,430.125000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.854167,15.291667,--:--
-14,FM Sicilia,Capo Tindari (ME),RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.145833,15.041667,--:--
-14,FM Sicilia,Carini (PA),RU5,,,430.125000,DUP+,5.000000,FM,TONE,118.8Hz,YES,Approximate,38.145833,13.208333,--:--
-14,FM Sicilia,Niscemi (CL),RU6,,,430.150000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,37.145833,14.375000,--:--
-14,FM Sicilia,Castelmola (CT),RU5,,,430.150000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.854167,15.291667,--:--
-14,FM Sicilia,Modica (RG),RU7,,,430.175000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,36.854167,14.791667,--:--
-14,FM Sicilia,Trapani,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.020833,12.625000,--:--
-14,FM Sicilia,Calatafimi (TP),RU8,,,430.200000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,37.937500,12.875000,--:--
-14,FM Sicilia,Ragusa (RG),RU9,,,430.225000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,36.895833,14.708333,--:--
-14,FM Sicilia,Troina (EN),RU10,,,430.250000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.770833,14.625000,--:--
-14,FM Sicilia,Ispica (RG),RU11,,,430.275000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,36.770833,14.875000,--:--
-14,FM Sicilia,Salemi - Monte Rose,RU12,,,430.300000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,37.812500,12.791667,--:--
-14,FM Sicilia,Portella (ME),RU13,,,430.325000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.854167,14.708333,--:--
-14,FM Sicilia,M. Grifone (PA),RU15,,,430.375000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,38.062500,13.375000,--:--
-14,FM Sicilia,Tipoldo (ME),T,,,430.462500,OFF,0.000000,FM,TONE,94.8Hz,YES,Approximate,38.145833,15.458333,--:--
-14,FM Sicilia,Tipoldo (ME),RU,,,430.475000,DUP+,5.000000,FM,TONE,107.2Hz,YES,Approximate,38.145833,15.458333,--:--
-14,FM Sicilia,Rupe Atenea (AG),RU,,,430.500000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,37.312500,13.625000,--:--
-14,FM Sicilia,San Giovanni Gemini (AG),RU,,,430.900000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,37.604167,13.625000,--:--
-14,FM Sicilia,Cresta di Naso (ME),RU18a,,,431.287500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.145833,14.791667,--:--
-14,FM Sicilia,Messina,RU25,,,431.450000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,38.229167,15.541667,--:--
-14,FM Sicilia,Colle Tirone -Avola,T,,,433.575000,OFF,0.000000,FM,TONE,123.0Hz,YES,Approximate,36.895833,15.125000,--:--
-11,FM Umbria,M.Serano (PG),R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.854167,12.791667,--:--
-11,FM Umbria,Gubbio (PG),R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.354167,12.125000,--:--
-11,FM Umbria,Perugia,R2a,,,145.662500,DUP-,0.600000,FM,TONE,114.8Hz,YES,Approximate,43.104167,12.375000,--:--
-11,FM Umbria,Gubbio (PG),R3a,,,145.687500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.895833,12.958333,--:--
-11,FM Umbria,M.Cosce (TR),R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,12.625000,--:--
-11,FM Umbria,Monte Santa Maria Tiberina (PG),R4a,,,145.712500,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,43.437500,12.125000,--:--
-11,FM Umbria,Perugia,R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.104167,12.375000,--:--
-11,FM Umbria,M.Serano (PG),RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.854167,12.791667,--:--
-11,FM Umbria,Pale Foligno (PG),RU2,,,430.050000,DUP+,5.000000,FM,TONE,91.5Hz,YES,Approximate,43.104167,12.458333,--:--
-11,FM Umbria,M.Giove -San Giustino (PG),RU8,,,430.200000,DUP+,1.600000,FM,TONE,123.0Hz,YES,Approximate,43.562500,12.208333,--:--
-11,FM Umbria,M.Cucco (PG),RU30a,,,431.587500,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.354167,12.791667,--:--
-12,FM Lazio,M.Gennaro (RM),RV,,,145.375000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,42.062500,12.791667,--:--
-12,FM Lazio,Vigna di Valle (RM),RV,,,145.425000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,42.062500,12.208333,--:--
-12,FM Lazio,Campocatino (FR),RV,,,145.500000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.854167,13.291667,--:--
-12,FM Lazio,M.Calvo (FR),RV,,,145.525000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,41.395833,13.375000,--:--
-12,FM Lazio,Campocatino (FR),RV,,,145.562500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,41.854167,13.291667,--:--
-12,FM Lazio,Capranica Prenestina (RM),R0,,,145.600000,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,41.854167,12.958333,--:--
-12,FM Lazio,Allumiere (RM),R0a,,,145.612500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,42.145833,11.875000,--:--
-12,FM Lazio,M.Guadagnolo (RM),R1,,,145.625000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.895833,12.958333,--:--
-12,FM Lazio,M.Calvo (FR),R1a,,,145.637500,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.395833,13.375000,--:--
-12,FM Lazio,Castelli Romani (RM),R2,,,145.650000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.770833,12.708333,--:--
-12,FM Lazio,M.Trevi- Sezze (LT),R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.479167,13.041667,--:--
-12,FM Lazio,M.Tiburtini (RM),R3,,,145.675000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.937500,12.791667,--:--
-12,FM Lazio,Campocatino (FR),R3a,,,145.687500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.854167,13.291667,--:--
-12,FM Lazio,M.Maio (FR),R4,,,145.700000,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.520833,13.875000,--:--
-12,FM Lazio,Latina,R4,,,145.700000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.437500,14.875000,--:--
-12,FM Lazio,M.Terminillo (RI),R5,,,145.725000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,42.479167,12.958333,--:--
-12,FM Lazio,Spigno Saturnia (LT),R5a,,,145.737500,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.312500,13.708333,--:--
-12,FM Lazio,Formia (LT),R6a,,,145.762500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.270833,13.625000,--:--
-12,FM Lazio,M.Cimini - Caprarola (VT),R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.354167,12.125000,--:--
-12,FM Lazio,Santopadre (FR),R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.604167,13.625000,--:--
-12,FM Lazio,Ponza (LT),R7a,,,145.787500,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,40.895833,12.958333,--:--
-12,FM Lazio,M.Guadagnolo (RM),R7a,,,145.787500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.937500,12.958333,--:--
-12,FM Lazio,Santa Marinella (RM),RU1,,,430.025000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.020833,11.875000,--:--
-12,FM Lazio,M.Circeo (LT),RU1a,,,430.037500,DUP+,5.000000,FM,TONE,77.0Hz,YES,Approximate,41.229167,13.041667,--:--
-12,FM Lazio,M.Terminillo (RI),RU3,,,430.075000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,42.479167,12.958333,--:--
-12,FM Lazio,Gaeta (LT),RU4,,,430.100000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.187500,13.541667,--:--
-12,FM Lazio,M,Calvo (FR),RU4a,,,430.112500,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.270833,13.625000,--:--
-12,FM Lazio,M.Guadagnolo (RM),RU5,,,430.125000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.937500,12.958333,--:--
-12,FM Lazio,Gaeta (LT),RU6,,,430.150000,DUP+,5.000000,FM,TONE,118.8Hz,YES,Approximate,41.187500,13.541667,--:--
-12,FM Lazio,M.Gennaro (RM),RU6,,,430.150000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,42.062500,12.791667,--:--
-12,FM Lazio,Campo Staffi - Filettino (FR),RU8,,,430.200000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,41.937500,13.375000,--:--
-12,FM Lazio,M.Paradiso (RM),RU8,,,430.200000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.104167,11.875000,--:--
-12,FM Lazio,Gaeta (LT),RU9,,,430.225000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.187500,13.541667,--:--
-12,FM Lazio,M.Terminillo (RI),RU9,,,430.225000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.479167,12.958333,--:--
-12,FM Lazio,M.Maio (FR),RU10,,,430.250000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.520833,13.875000,--:--
-12,FM Lazio,M.Cimini (VT),RU10,,,430.250000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.354167,12.125000,--:--
-12,FM Lazio,Castelli Romani (RM),RU11,,,430.275000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,41.729167,12.708333,--:--
-12,FM Lazio,M.Gennaro (RM),RU12,,,430.300000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,42.062500,12.791667,--:--
-12,FM Lazio,Latina,RU14,,,430.350000,DUP+,5.000000,FM,TONE,77.0Hz,YES,Approximate,41.437500,14.875000,--:--
-12,FM Lazio,M.Onofrio (LT),RU15,,,430.375000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.270833,13.541667,--:--
-12,FM Lazio,Campo Catino (FR),RU,,,430.450000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.812500,13.375000,--:--
-12,FM Lazio,Velletri (RM),RU,,,430.475000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.687500,12.791667,--:--
-12,FM Lazio,Rocca Priora (RM),RU,,,430.575000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.770833,12.791667,--:--
-12,FM Lazio,M.Trevi (LT),RU,,,430.650000,DUP+,5.000000,FM,TONE,77.0Hz,YES,Approximate,41.479167,13.041667,--:--
-12,FM Lazio,Rocca Priora (RM),RU,,,430.825000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.770833,12.791667,--:--
-12,FM Lazio,Vigna di Valle (RM),RU19,,,431.300000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.062500,12.208333,--:--
-12,FM Lazio,Civitavecchia (RM),RU23,,,431.400000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.145833,11.791667,--:--
-12,FM Lazio,M.Faggio (LT),RU23a,,,431.412500,DUP+,1.600000,FM,TONE,103.5Hz,YES,Approximate,41.395833,13.541667,--:--
-12,FM Lazio,Vivaro Romano (RM),RU24,,,431.425000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.104167,12.958333,--:--
-12,FM Lazio,M.Circello (LT),RU30,,,431.575000,DUP+,1.600000,FM,TONE,103.5Hz,YES,Approximate,41.229167,13.041667,--:--
-12,FM Lazio,M.Cavo (RM),RU32,,,431.625000,DUP+,1.600000,FM,TONE,103.5Hz,YES,Approximate,41.770833,12.708333,--:--
-12,FM Lazio,Selva Rotonda (RI),RU,,,433.800000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.604167,13.125000,--:--
-12,FM Lazio,Montecompatri (RM),RU,,,433.800000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,41.812500,12.708333,--:--
-21,FM Sardegna,M.Rasu (SS),R0,,,145.600000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,40.729167,8.708333,--:--
-21,FM Sardegna,Abbasanta (OR),R0a,,,145.612500,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.145833,8.791667,--:--
-21,FM Sardegna,Capoterra - Torre degli Ulivi (CA),R1,,,145.625000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,39.145833,9.041667,--:--
-21,FM Sardegna,Punta Tricoli - Gairo (OG),R1,,,145.625000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,39.854167,9.541667,--:--
-21,FM Sardegna,Arbus - Punta Tintillonis (SU),R1,,,145.625000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,49.520833,8.541667,--:--
-21,FM Sardegna,Punta Sebera (CA),R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.062500,8.791667,--:--
-21,FM Sardegna,Cabu Aspru (SS),R2a,,,145.662500,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.854167,8.291667,--:--
-21,FM Sardegna,M.Tului-Dorgali (NU),R3,,,145.675000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.270833,9.625000,--:--
-21,FM Sardegna,Abbasanta (OR),R4,,,145.700000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.145833,8.791667,--:--
-21,FM Sardegna,S.Anna di Lode' (NU),R5,,,145.725000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.604167,9.541667,--:--
-21,FM Sardegna,M.Serpeddi (CA),R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.354167,9.291667,--:--
-21,FM Sardegna,Bruncu Spina (CA),R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.020833,9.291667,--:--
-21,FM Sardegna,Limbara (SS),RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.854167,9.208333,--:--
-21,FM Sardegna,M.Serpeddi (CA),RU2,,,430.050000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.354167,9.291667,--:--
-21,FM Sardegna,S.Anna di Lode' (NU),RU2,,,430.050000,DUP+,1.600000,FM,TONE,74.4Hz,YES,Approximate,40.604167,9.541667,--:--
-21,FM Sardegna,Cagliari,RU4,,,430.100000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.229167,9.125000,--:--
-21,FM Sardegna,M.Coremò - Narcao (CI),RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.229167,8.625000,--:--
-21,FM Sardegna,Abbasanta (OR),RU5,,,430.125000,DUP+,1.600000,FM,TONE,74.4Hz,YES,Approximate,40.145833,8.791667,--:--
-21,FM Sardegna,Lanusei-M.Armidda (OG),RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.895833,9.541667,--:--
-21,FM Sardegna,M.Ferru (OR),RU8,,,430.200000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.145833,8.541667,--:--
-21,FM Sardegna,M.Serpeddi (CA),RU10,,,430.250000,DUP+,1.600000,FM,TONE,123.0Hz,YES,Approximate,39.354167,9.291667,--:--
-21,FM Sardegna,M.Limbara (SS),RU,,,430.400000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,40.854167,9.208333,--:--
-21,FM Sardegna,Serpeddi (CA),RU,,,430.700000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,39.354167,9.291667,--:--
-22,FM San Marino,San Marino (RSM),RU10a,,,430.262500,DUP+,1.600000,FM,TONE,91.5Hz,YES,Approximate,43.937500,12.458333,--:--
-23,FM Svizzera,M.Tamaro (Lugano),R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.104167,8.875000,--:--
-23,FM Svizzera,Moosalpe (Vallese),R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.270833,7.875000,--:--
-23,FM Svizzera,M.Tamaro (Lugano),R6a,,,145.762500,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,46.104167,8.875000,--:--
-23,FM Svizzera,Moosalpe (Vallese),RU,,,438.675000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,46.270833,7.875000,--:--
-23,FM Svizzera,M.Generoso (Lugano),RU,,,439.487500,DUP-,7.500000,FM,TONE,103.5Hz,YES,Approximate,45.937500,9.041667,--:--
-24,FM Austria,M.Olperer,RU,,,431.325000,DUP+,7.600000,FM,OFF,88.5Hz,YES,Approximate,47.062500,11.708333,--:--
-24,FM Austria,Dobratsch,RU,,,438.900000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,46.604167,13.708333,--:--
-24,FM Austria,M.Olperer,RU,,,438.925000,DUP-,7.600000,FM,TONE,77.0Hz,YES,Approximate,47.062500,11.708333,--:--
-25,FM Slovenia,M.Nanos,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.770833,14.041667,--:--
-25,FM Slovenia,M.Sabotino,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.979167,13.625000,--:--
-25,FM Slovenia,Izola,R6a,,,145.762500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,45.520833,13.625000,--:--
-25,FM Slovenia,M.Kanin,R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.354167,13.458333,--:--
-25,FM Slovenia,Trstelj,RU,,,438.750000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,45.854167,13.708333,--:--
-25,FM Slovenia,Pirano,RU,,,438.800000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,45.520833,13.625000,--:--
-26,FM Croazia,Parenzo,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.270833,13.708333,--:--
-26,FM Croazia,M.Maggiore - M.Ucka,R4,,,145.700000,DUP-,0.600000,FM,TONE,173.8Hz,YES,Approximate,45.270833,14.208333,--:--
-26,FM Croazia,Dubrovnik,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.645833,18.125000,--:--
-26,FM Croazia,Parenzo,RU,,,438.675000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,45.270833,13.708333,--:--
-26,FM Croazia,M.Maggiore - M.Ucka,RU,,,439.025000,DUP-,7.600000,FM,TONE,173.8Hz,YES,Approximate,45.270833,14.208333,--:--
-27,FM Germania,Zugspitze,RU,,,431.250000,DUP+,7.600000,FM,OFF,88.5Hz,YES,Approximate,47.437500,10.958333,--:--
-27,FM Germania,Zugspitze,RU,,,438.850000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,47.437500,10.958333,--:--
-28,FM Francia,Nurieux,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.187500,5.458333,--:--
-28,FM Francia,Ajaccio ( Corse),R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.937500,8.708333,--:--
-28,FM Francia,Echirolles,R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.145833,5.708333,--:--
-28,FM Francia,Peille,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.770833,7.458333,--:--
-28,FM Francia,St-Etienne-L.O,R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,5.791667,--:--
-28,FM Francia,Rutali (Corse),R4a,,,145.712500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.562500,9.375000,--:--
-28,FM Francia,Sollies-Toucas,R5,,,145.725000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,43.187500,5.958333,--:--
-28,FM Francia,Patrimonio (Corse),R5a,,,145.737500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.687500,9.375000,--:--
-28,FM Francia,Antibes,R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.895833,7.125000,--:--
-28,FM Francia,Briancon,R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.895833,6.625000,--:--
-28,FM Francia,St-Vallier de Thiey,RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.687500,6.875000,--:--
-28,FM Francia,Risoul,RU4,,,430.100000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.604167,6.625000,--:--
-28,FM Francia,Briancon,RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.895833,6.625000,--:--
-28,FM Francia,Apremont,RU,,,430.150000,DUP+,9.400000,FM,OFF,88.5Hz,YES,Approximate,46.187500,5.625000,--:--
-28,FM Francia,Corte (Corse),RU6,,,430.150000,DUP+,9.400000,FM,OFF,88.5Hz,YES,Approximate,42.395833,9.208333,--:--
-28,FM Francia,Crozet,RU9rev,,,430.225000,DUP+,9.400000,FM,TONE,67.0Hz,YES,Approximate,46.270833,5.958333,--:--
-28,FM Francia,Forest St-Julien,RU10,,,430.250000,DUP+,9.400000,FM,OFF,88.5Hz,YES,Approximate,44.645833,6.125000,--:--
-28,FM Francia,Patrimonio (Corse),RU10,,,430.250000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.687500,9.375000,--:--
-28,FM Francia,Eze,RU11,,,430.275000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.729167,7.291667,--:--
-28,FM Francia,St.Jeannet,RU14,,,430.350000,DUP+,9.400000,FM,OFF,88.5Hz,YES,Approximate,43.729167,7.125000,--:--
-28,FM Francia,St-Etienne-L.O,RU12rev,,,431.900000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,5.791667,--:--
-28,FM Francia,Chamrousse,RU13rev,,,431.925000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.145833,5.875000,--:--
-28,FM Francia,Echirolles,RU24rev,,,433.025000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.145833,5.708333,--:--
-28,FM Francia,Gap,RU,,,433.150000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.479167,6.208333,--:--
-28,FM Francia,Le Monetier,RU,,,434.850000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.020833,6.375000,--:--
-29,FM Montenegro,Podgorica,R0,,,145.600000,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,42.479167,19.291667,--:--
-29,FM Montenegro,Herceg Novi,R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
-29,FM Montenegro,Stabljak Stuoc,R1a,,,145.637500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,43.187500,19.041667,--:--
-29,FM Montenegro,Herceg Novi,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
-29,FM Montenegro,Herceg Novi,RU,,,438.600000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
-29,FM Montenegro,Lovcen Stirovnik,RU,,,438.675000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,42.395833,18.791667,--:--
-29,FM Montenegro,Herceg Novi,RU,,,438.725000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
-29,FM Montenegro,Herceg Novi,RU,,,438.775000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
+02,FM Liguria,R0 M.Faudo IM,R0,,,145.600000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,43.895833,7.875000,--:--
+02,FM Liguria,R1 Genova GE,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.395833,8.958333,--:--
+02,FM Liguria,R1a Cosseria SV,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.354167,8.208333,--:--
+02,FM Liguria,R1a Lorsica GE,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.437500,9.208333,--:--
+02,FM Liguria,R2 M.Bignone IM,R2,,,145.650000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,43.854167,7.708333,--:--
+02,FM Liguria,R2a Bardineto SV,R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.062500,8.375000,--:--
+02,FM Liguria,R3 M.Beigua SV,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.437500,8.541667,--:--
+02,FM Liguria,R3a Tigullio GE,R3a,,,145.687500,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.270833,9.541667,--:--
+02,FM Liguria,R4 M.Figogna GE,R4,,,145.700000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.437500,8.875000,--:--
+02,FM Liguria,R4 Sanremo IM,R4,,,145.700000,DUP-,0.600000,FM,TONE,162.2Hz,YES,Approximate,43.812500,7.708333,--:--
+02,FM Liguria,R5 M.Fasce GE,R5,,,145.725000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.395833,9.041667,--:--
+02,FM Liguria,R5a Pizzo d'Evigno - Stellanello SV,R5a,,,145.737500,DUP-,0.600000,FM,TONE,162.2Hz,YES,Approximate,44.020833,8.041667,--:--
+02,FM Liguria,R6 Rapallo GE,R6,,,145.750000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.354167,9.208333,--:--
+02,FM Liguria,R6a M.Tirasso - Alassio SV,R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.020833,8.125000,--:--
+02,FM Liguria,R7 Dolcedo IM,R7,,,145.775000,DUP-,0.600000,FM,TONE,162.2Hz,YES,Approximate,43.895833,7.875000,--:--
+02,FM Liguria,R7 Imperia IM,R7,,,145.775000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,43.895833,8.041667,--:--
+02,FM Liguria,R7a Finale Ligure SV,R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.187500,8.375000,--:--
+02,FM Liguria,R7a Perinaldo IM,R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.854167,7.625000,--:--
+02,FM Liguria,RU Albenga SV,RU,,,430.475000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.020833,8.208333,--:--
+02,FM Liguria,RU M.Leco GE,RU,,,430.462500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.875000,--:--
+02,FM Liguria,RU M.Maggio - Savignone GE,RU,,,430.487500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,9.041667,--:--
+02,FM Liguria,RU M.Maggio - Savignone GE,RU,,,430.837500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,9.041667,--:--
+02,FM Liguria,RU M.Telegrafo - Busalla GE,RU,,,430.625000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.875000,--:--
+02,FM Liguria,RU Val di Vara SP,RU,,,430.575000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.354167,9.708333,--:--
+02,FM Liguria,RU0a Cogorno GE,RU0a,,,430.012500,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,44.312500,9.375000,--:--
+02,FM Liguria,RU1 Cosseria SV,RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.354167,8.208333,--:--
+02,FM Liguria,RU11 Sant'Olcese GE,RU11,,,430.275000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.479167,8.958333,--:--
+02,FM Liguria,RU15a Val Tanaro IM,RU15a,,,430.387500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.145833,7.958333,--:--
+02,FM Liguria,RU2 M.Roveto - Busalla GE,RU2,,,430.050000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.604167,8.958333,--:--
+02,FM Liguria,RU2a Montegrosso Pian Latte IM,RU2a,,,430.062500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.062500,7.791667,--:--
+02,FM Liguria,RU3 Spotorno SV,RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.187500,8.375000,--:--
+02,FM Liguria,RU3a San Nicolao SP,RU3a,,,430.087500,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,44.270833,9.541667,--:--
+02,FM Liguria,RU5 M.Fasce GE,RU5,,,430.125000,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,44.395833,9.125000,--:--
+02,FM Liguria,RU6 M.Figogna GE,RU6,,,430.150000,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,44.437500,8.875000,--:--
+02,FM Liguria,RU7 Finale Ligure SV,RU7,,,430.175000,DUP+,1.600000,FM,TONE,162.2Hz,YES,Approximate,44.187500,8.375000,--:--
+02,FM Liguria,RU7 T. Marconi-Sestri Levante GE,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.270833,9.375000,--:--
+02,FM Liguria,RU7a Santa Margherita Ligure GE,RU7a,,,430.187500,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,44.354167,9.208333,--:--
+02,FM Liguria,RU8 Bardineto SV,RU8,,,430.200000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,44.187500,8.125000,--:--
+02,FM Liguria,RV M.Leco GE,RV,,,145.437500,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.875000,--:--
+02,FM Liguria,RV-1 Val Tanaro IM,RV-1,,,145.575000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.145833,7.958333,--:--
+02,FM Liguria,RV-1a M.Roveto-Busalla GE,RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,44.604167,8.958333,--:--
+02,FM Liguria,T Cilona - Busalla GE,T,,,145.312500,OFF,0.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.958333,--:--
+02,FM Liguria,T M.Maggio GE,T,,,145.437500,OFF,0.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,9.041667,--:--
+02,FM Liguria,T Masone GE,T,,,144.612500,OFF,0.000000,FM,TONE,82.5Hz,YES,Approximate,44.479167,8.708333,--:--
+02,FM Liguria,T Pegli GE,T,,,144.675000,OFF,0.000000,FM,TONE,162.2Hz,YES,Approximate,44.437500,8.791667,--:--
+02,FM Liguria,T Pegli GE,T,,,433.487500,OFF,0.000000,FM,TONE,162.2Hz,YES,Approximate,44.437500,8.791667,--:--
+02,FM Liguria,T Rossiglione GE,T,,,145.212500,OFF,0.000000,FM,TONE,82.5Hz,YES,Approximate,44.562500,8.708333,--:--
+02,FM Liguria,T out M.Telegrafo - Busalla GE,T out,,,145.225000,OFF,0.000000,FM,TONE,110.9Hz,YES,Approximate,44.562500,8.875000,--:--
+03,FM Piemonte,R0 Cesana Torinese TO,R0,,,145.600000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,44.937500,6.791667,--:--
+03,FM Piemonte,R0 Cossato BI,R0,,,145.600000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,45.562500,8.208333,--:--
+03,FM Piemonte,R0 Frassinetto TO,R0,,,145.600000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,45.437500,7.625000,--:--
+03,FM Piemonte,R0 Prarostino TO,R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.854167,7.291667,--:--
+03,FM Piemonte,R0a M. Mottarone VCO,R0a,,,145.612500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,45.895833,8.458333,--:--
+03,FM Piemonte,R1a Asti AT,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.895833,8.208333,--:--
+03,FM Piemonte,R2 Aquila di Giaveno TO,R2,,,145.650000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,45.020833,7.291667,--:--
+03,FM Piemonte,R2a Roccaverano AT,R2a,,,145.662500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,44.770833,7.291667,--:--
+03,FM Piemonte,R4 Alpe Colombino - Giaveno TO,R4,,,145.700000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,45.020833,7.291667,--:--
+03,FM Piemonte,R4 Pino Torinese TO,R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.020833,7.791667,--:--
+03,FM Piemonte,R4a M.Dago-Nizza Monferrato AT,R4a,,,145.712500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.687500,8.375000,--:--
+03,FM Piemonte,R5 Susa TO,R5,,,145.725000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,45.145833,7.041667,--:--
+03,FM Piemonte,R5a Costigliole d'Asti AT,R5a,,,145.737500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.812500,8.208333,--:--
+03,FM Piemonte,R6 Bagnolo Piemonte CN,R6,,,145.750000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.770833,7.291667,--:--
+03,FM Piemonte,R6 M.Moncucco VCO,R6,,,145.750000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,46.104167,8.291667,--:--
+03,FM Piemonte,R6a Fracconalto Al,R6a,,,145.762500,DUP-,0.600000,FM,TONE,162.2Hz,YES,Approximate,44.604167,8.875000,--:--
+03,FM Piemonte,R6a M.Mottarone VCO,R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.854167,8.458333,--:--
+03,FM Piemonte,R6a Sestriere TO,R6a,,,145.762500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,44.979167,6.875000,--:--
+03,FM Piemonte,R6a Torino TO,R6a,,,145.762500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,45.104167,7.708333,--:--
+03,FM Piemonte,R7 Stazzano AL,R7,,,145.775000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.729167,8.875000,--:--
+03,FM Piemonte,RU Bagnolo Piemonte CN,RU,,,430.600000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.770833,7.291667,--:--
+03,FM Piemonte,RU Bagnolo Piemonte-Montoso CN,RU,,,430.425000,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,44.770833,7.291667,--:--
+03,FM Piemonte,RU Colle di Rucas AT,RU,,,430.450000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.604167,8.291667,--:--
+03,FM Piemonte,RU M.Malanotte CN,RU,,,430.650000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,44.270833,7.791667,--:--
+03,FM Piemonte,RU Mombaruzzo AL,RU,,,430.787500,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,44.770833,8.458333,--:--
+03,FM Piemonte,RU Torino TO,RU,,,430.612500,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,45.104167,7.708333,--:--
+03,FM Piemonte,RU1 Trontano VCO,RU1,,,430.025000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,46.104167,8.291667,--:--
+03,FM Piemonte,RU10 Perosa Argentina TO,RU10,,,430.250000,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,44.937500,7.208333,--:--
+03,FM Piemonte,RU10a Serravalle CN,RU10a,,,430.262500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.562500,8.041667,--:--
+03,FM Piemonte,RU11 Sampeyre CN,RU11,,,430.275000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.562500,7.208333,--:--
+03,FM Piemonte,RU11a Neviglie CN,RU11a,,,430.287500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.687500,8.125000,--:--
+03,FM Piemonte,RU12 Roccabruna CN,RU12,,,430.300000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.479167,7.291667,--:--
+03,FM Piemonte,RU12a Angrogna - Val Pellice TO,RU12a,,,430.312500,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,44.854167,7.208333,--:--
+03,FM Piemonte,RU13a Asti AT,RU13a,,,430.337500,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.895833,8.208333,--:--
+03,FM Piemonte,RU13a Loazzolo AT,RU13a,,,430.337500,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.687500,8.291667,--:--
+03,FM Piemonte,RU14a Belforte M.to AL,RU14a,,,430.362500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.604167,8.625000,--:--
+03,FM Piemonte,RU16a Celle-Villardora TO,RU16a,,,431.237500,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.145833,7.375000,--:--
+03,FM Piemonte,RU24 Acqui Terme AL,RU24,,,431.425000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.687500,8.458333,--:--
+03,FM Piemonte,RU25a Coniolo AL,RU25a,,,431.462500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,45.145833,8.375000,--:--
+03,FM Piemonte,RU28 M.Mottarone VCO,RU28,,,431.525000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,45.895833,8.458333,--:--
+03,FM Piemonte,RU2a Mornasco AL,RU2a,,,430.062500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.645833,8.791667,--:--
+03,FM Piemonte,RU3 Mondovi' CN,RU3,,,430.075000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.354167,7.791667,--:--
+03,FM Piemonte,RU5 Asti AT,RU5,,,430.125000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,44.895833,8.208333,--:--
+03,FM Piemonte,RU6 Corio TO,RU6,,,430.150000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,45.354167,7.541667,--:--
+03,FM Piemonte,RU6a M. Mottarone VCO,RU6a,,,430.162500,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,45.895833,8.458333,--:--
+03,FM Piemonte,RU7 Novi Ligure AL,RU7,,,430.175000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.770833,8.791667,--:--
+03,FM Piemonte,RU8a La Morra CN,RU8a,,,430.212500,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,44.645833,7.958333,--:--
+03,FM Piemonte,RU8a M.Moncucco VCO,RU8a,,,430.212500,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,46.104167,8.291667,--:--
+03,FM Piemonte,RU9 Acqui Terme AL,RU9,,,430.225000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,44.604167,8.375000,--:--
+03,FM Piemonte,RV Paroldo CN,RV,,,145.487500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,44.437500,8.041667,--:--
+03,FM Piemonte,RV-1a M. Cimolo VCO,RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,131.8Hz,YES,Approximate,45.979167,8.625000,--:--
+03,FM Piemonte,T Belforte Monferrato AL,T,,,144.512500,OFF,0.000000,FM,TONE,82.5Hz,YES,Approximate,44.604167,8.625000,--:--
+03,FM Piemonte,T Ovada AL,T,,,435.212500,OFF,0.000000,FM,TONE,110.9Hz,YES,Approximate,44.604167,8.625000,--:--
+04,FM Lombardia,R1 M.Maddalena BS,R1,,,145.625000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.562500,10.291667,--:--
+04,FM Lombardia,R1a Gravedona ed Uniti CO,R1a,,,145.637500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,46.145833,9.291667,--:--
+04,FM Lombardia,R2 M.Penice PV,R2,,,145.650000,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,44.770833,9.291667,--:--
+04,FM Lombardia,R2a Corni di Canzo LC,R2a,,,145.662500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.854167,9.291667,--:--
+04,FM Lombardia,R2a Monte della Neve - Livigno SO,R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.479167,10.125000,--:--
+04,FM Lombardia,R3a M.Rolla SO,R3a,,,145.687500,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,46.187500,9.875000,--:--
+04,FM Lombardia,R3a San Felice del Benaco BS,R3a,,,145.687500,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,45.604167,10.541667,--:--
+04,FM Lombardia,R4 Azzano S.Paolo BG,R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.645833,9.708333,--:--
+04,FM Lombardia,R4 Cigolino - Chiavenna SO,R4,,,145.700000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,46.312500,9.375000,--:--
+04,FM Lombardia,R4a M.Bisbino CO,R4a,,,145.712500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.854167,9.041667,--:--
+04,FM Lombardia,R5 Aprica -Magnolta SO,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.145833,10.125000,--:--
+04,FM Lombardia,R5 Milano - Pirelli MI,R5,,,145.725000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.479167,9.208333,--:--
+04,FM Lombardia,R5a Campo dei Fiori VA,R5a,,,145.737500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.854167,8.791667,--:--
+04,FM Lombardia,R6 Cernusco S.N. MI,R6,,,145.750000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.520833,9.291667,--:--
+04,FM Lombardia,R6a Sellero BS,R6a,,,145.762500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,46.062500,10.291667,--:--
+04,FM Lombardia,R7 Madesimo SO,R7,,,145.775000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,46.437500,9.375000,--:--
+04,FM Lombardia,R7a M.Boletto CO,R7a,,,145.787500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,45.812500,9.125000,--:--
+04,FM Lombardia,R7a San Giovanni Bianco BG,R7a,,,145.787500,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,45.895833,9.708333,--:--
+04,FM Lombardia,RU10a Milano - Missaglia MI,RU10a,,,430.262500,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,45.437500,9.208333,--:--
+04,FM Lombardia,RU11 Civo SO,RU11,,,430.275000,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,46.187500,9.625000,--:--
+04,FM Lombardia,RU11 M. Guglielmo BS,RU11,,,430.275000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.770833,10.208333,--:--
+04,FM Lombardia,RU12 Cermeledo SO,RU12,,,430.300000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,46.145833,9.625000,--:--
+04,FM Lombardia,RU12a Magenta MI,RU12a,,,430.312500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.479167,8.875000,--:--
+04,FM Lombardia,RU13 Roncola BG,RU13,,,430.325000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.729167,9.541667,--:--
+04,FM Lombardia,RU19 M.Penice PV,RU19,,,431.300000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,44.770833,9.291667,--:--
+04,FM Lombardia,RU29a Sacro Monte - Varese VA,RU29a,,,431.562500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.854167,8.791667,--:--
+04,FM Lombardia,RU3 M.Penice PV,RU3,,,430.075000,DUP+,1.600000,FM,TONE,156.7Hz,YES,Approximate,44.770833,9.291667,--:--
+04,FM Lombardia,RU6 Bergamo BG,RU6,,,430.150000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.687500,9.625000,--:--
+04,FM Lombardia,RU6a M.Falecchio - Onore BG,RU6a,,,430.162500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.895833,10.041667,--:--
+04,FM Lombardia,RU7 Milano - Pirelli MI,RU7,,,430.175000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.479167,9.208333,--:--
+04,FM Lombardia,RU8 Roncola BG,RU8,,,430.200000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,45.729167,9.541667,--:--
+04,FM Lombardia,RV-1a Gallarate VA,RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,45.687500,8.791667,--:--
+04,FM Lombardia,T Darfo BS,T,,,145.212500,OFF,0.000000,FM,TONE,71.9Hz,YES,Approximate,45.854167,10.208333,--:--
+04,FM Lombardia,T Darfo BS,T,,,435.112500,OFF,0.000000,FM,TONE,71.9Hz,YES,Approximate,45.854167,10.208333,--:--
+04,FM Lombardia,T M.Pora BG,T,,,144.650000,OFF,0.000000,FM,TONE,71.9Hz,YES,Approximate,45.895833,10.125000,--:--
+04,FM Lombardia,T Pigra - Valle d'Intelvi CO,T,,,145.350000,OFF,0.000000,FM,TONE,156.7Hz,YES,Approximate,45.937500,9.125000,--:--
+04,FM Lombardia,T Pigra - Valle d'Intelvi CO,T,,,433.512500,OFF,0.000000,FM,TONE,156.7Hz,YES,Approximate,45.937500,9.125000,--:--
+05,FM Veneto,R0a M.Grappa VI,R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.854167,11.708333,--:--
+05,FM Veneto,R1 M.Tudaio - Laggio di Cadore BL,R1,,,145.625000,DUP-,0.600000,FM,TONE,131.8Hz,YES,Approximate,46.520833,12.458333,--:--
+05,FM Veneto,R1 Venezia VE,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.437500,12.375000,--:--
+05,FM Veneto,R3 Malga M. Corno - Lusiana VI,R3,,,145.675000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,45.770833,11.541667,--:--
+05,FM Veneto,R5 Bassano del Grappa VI,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.770833,11.708333,--:--
+05,FM Veneto,R5 Bosco Chiesa Nuova VR,R5,,,145.725000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,45.604167,11.041667,--:--
+05,FM Veneto,R7 M.Pastelletto VR,R7,,,145.775000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,45.604167,10.875000,--:--
+05,FM Veneto,R7a M.Rite BL,R7a,,,145.787500,DUP-,0.600000,FM,TONE,131.8Hz,YES,Approximate,46.395833,12.208333,--:--
+05,FM Veneto,RU Bassano del Grappa VI,RU,,,430.587500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.770833,11.708333,--:--
+05,FM Veneto,RU Enego VI,RU,,,430.787500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.937500,11.625000,--:--
+05,FM Veneto,RU Lido di Venezia VE,RU,,,430.525000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.354167,12.291667,--:--
+05,FM Veneto,RU M.Tomba VR,RU,,,430.412500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.687500,11.041667,--:--
+05,FM Veneto,RU Marostica VI,RU,,,430.825000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.770833,11.625000,--:--
+05,FM Veneto,RU Monte Gallo - Colli Euganei PD,RU,,,431.187500,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.312500,11.708333,--:--
+05,FM Veneto,RU Roana - Altpiano Asiago VI,RU,,,430.537500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,45.895833,11.458333,--:--
+05,FM Veneto,RU Treviso TV,RU,,,430.500000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,45.687500,12.208333,--:--
+05,FM Veneto,RU1 Belluno BL,RU1,,,430.025000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,46.145833,12.208333,--:--
+05,FM Veneto,RU1 M.Grappa VI,RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.812500,11.708333,--:--
+05,FM Veneto,RU11 Verona VR,RU11,,,430.275000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.437500,11.041667,--:--
+05,FM Veneto,RU11a Monte Grande PD,RU11a,,,430.287500,DUP+,1.600000,FM,TONE,131.8Hz,YES,Approximate,45.312500,12.041667,--:--
+05,FM Veneto,RU13 M.Grappa VI,RU13,,,430.325000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.812500,11.708333,--:--
+05,FM Veneto,RU14a Campomolon VI,RU14a,,,430.362500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.854167,11.291667,--:--
+05,FM Veneto,RU15a M.Grappa VI,RU15a,,,430.387500,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.812500,11.708333,--:--
+05,FM Veneto,RU2 M.Baldo VR,RU2,,,430.050000,DUP+,5.025000,FM,TONE,94.8Hz,YES,Approximate,45.729167,10.875000,--:--
+05,FM Veneto,RU2a M.Rite BL,RU2a,,,430.062500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,46.479167,12.291667,--:--
+05,FM Veneto,RU5 Posa Puner TV,RU5,,,430.125000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,45.937500,12.041667,--:--
+05,FM Veneto,RU6a Col Visentin TV,RU6a,,,430.162500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,46.062500,12.291667,--:--
+05,FM Veneto,RU7a M.Faverghera BL,RU7a,,,430.187500,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,46.062500,12.291667,--:--
+05,FM Veneto,RU8 Thiene VI,RU8,,,430.200000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,45.687500,11.458333,--:--
+05,FM Veneto,RV Cerealto VI,RV,,,145.562500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,45.604167,11.291667,--:--
+05,FM Veneto,RV Monastier TV,RV,,,144.950000,DUP+,0.600000,FM,TONE,131.8Hz,YES,Approximate,45.937500,12.041667,--:--
+05,FM Veneto,RV Val di Zoldo BL,RV,,,144.887500,DUP+,0.600000,FM,TONE,94.8Hz,YES,Approximate,46.354167,12.125000,--:--
+05,FM Veneto,T Gosaldo BL,T,,,145.350000,OFF,0.000000,FM,TONE,127.3Hz,YES,Approximate,46.229167,11.958333,--:--
+05,FM Veneto,T Gosaldo BL,T,,,433.462500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.229167,13.958333,--:--
+05,FM Veneto,T M.Marmolada BL,T,,,145.287500,OFF,0.000000,FM,TONE,131.8Hz,YES,Approximate,46.437500,11.875000,--:--
+05,FM Veneto,T M.Marmolada BL,T,,,433.987500,OFF,0.000000,FM,TONE,131.8Hz,YES,Approximate,46.437500,11.875000,--:--
+05,FM Veneto,T Selva di Cadore BL,T,,,145.375000,OFF,0.000000,FM,TONE,94.8Hz,YES,Approximate,46.437500,12.041667,--:--
+05,FM Veneto,T Selva di Cadore BL,T,,,433.462500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.437500,12.041667,--:--
+06,FM Emilia Romagna,R0 Lama di Moccogno MO,R0,,,145.600000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.270833,10.625000,--:--
+06,FM Emilia Romagna,R0 Rimini RN,R0,,,145.600000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.062500,12.541667,--:--
+06,FM Emilia Romagna,R0a Modigliana FC,R0a,,,145.612500,DUP-,0.600000,FM,TONE,141.3Hz,YES,Approximate,44.145833,11.791667,--:--
+06,FM Emilia Romagna,R1a Pianoro BO,R1a,,,145.637500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.437500,11.375000,--:--
+06,FM Emilia Romagna,R2 Bertinoro FC,R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.145833,12.125000,--:--
+06,FM Emilia Romagna,R2 Ferrara FE,R2,,,145.650000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.812500,11.625000,--:--
+06,FM Emilia Romagna,R2a M.Coroncina BO,R2a,,,145.662500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.104167,11.208333,--:--
+06,FM Emilia Romagna,R3 Parma PR,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.812500,10.375000,--:--
+06,FM Emilia Romagna,R3a Castel Maggiore BO,R3a,,,145.687500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.562500,11.375000,--:--
+06,FM Emilia Romagna,R4a Casina RE,R4a,,,145.712500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.520833,10.458333,--:--
+06,FM Emilia Romagna,R4a M.Ghebbio RA,R4a,,,145.712500,DUP-,0.600000,FM,TONE,141.3Hz,YES,Approximate,44.270833,11.708333,--:--
+06,FM Emilia Romagna,R5 Montovolo BO,R5,,,145.725000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.229167,11.125000,--:--
+06,FM Emilia Romagna,R5a M.Fumaiolo FC,R5a,,,145.737500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.770833,12.041667,--:--
+06,FM Emilia Romagna,R6a M.Cimone MO,R6a,,,145.762500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,44.187500,10.708333,--:--
+06,FM Emilia Romagna,RU Casella - Ozzano dell'Emilia BO,RU,,,430.562500,DUP+,5.000000,FM,TONE,77.0Hz,YES,Approximate,44.354167,11.458333,--:--
+06,FM Emilia Romagna,RU M.Canate PR,RU,,,430.725000,DUP+,4.675000,FM,TONE,77.0Hz,YES,Approximate,44.770833,9.958333,--:--
+06,FM Emilia Romagna,RU0a Casina RE,RU0a,,,430.012500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.520833,10.458333,--:--
+06,FM Emilia Romagna,RU13 M.Pepi - Bedonia PR,RU13,,,430.325000,DUP+,1.600000,FM,TONE,141.3Hz,YES,Approximate,44.562500,9.625000,--:--
+06,FM Emilia Romagna,RU14 Parma PR,RU14,,,430.350000,DUP+,1.600000,FM,TONE,141.3Hz,YES,Approximate,44.812500,10.375000,--:--
+06,FM Emilia Romagna,RU15 Casalgrande RE,RU15,,,430.375000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.562500,10.708333,--:--
+06,FM Emilia Romagna,RU18 Cesenatico FC,RU18,,,431.275000,DUP+,1.600000,FM,TONE,141.3Hz,YES,Approximate,44.187500,12.375000,--:--
+06,FM Emilia Romagna,RU18 Colli Piacentini PC,RU18,,,431.275000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.812500,9.625000,--:--
+06,FM Emilia Romagna,RU19a Montovolo BO,RU19a,,,431.312500,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.229167,11.125000,--:--
+06,FM Emilia Romagna,RU1a Barbiano BO,RU1a,,,430.037500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.437500,11.375000,--:--
+06,FM Emilia Romagna,RU21 M.Molinatico PR,RU21,,,431.350000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.479167,9.875000,--:--
+06,FM Emilia Romagna,RU24a Modigliana FC,RU24a,,,431.437500,DUP+,1.600000,FM,TONE,141.3Hz,YES,Approximate,44.145833,11.791667,--:--
+06,FM Emilia Romagna,RU2a Montagnana MO,RU2a,,,430.062500,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.479167,10.791667,--:--
+06,FM Emilia Romagna,RU3 M.Trebbio FC,RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.145833,11.875000,--:--
+06,FM Emilia Romagna,RU3a Ferrara FE,RU3a,,,430.087500,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,44.854167,11.625000,--:--
+06,FM Emilia Romagna,RU5 Bagnacavallo RA,RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.437500,11.958333,--:--
+06,FM Emilia Romagna,RU5 M.Cassio PR,RU5,,,430.125000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.604167,10.041667,--:--
+06,FM Emilia Romagna,RU7 Pianoro BO,RU7,,,430.175000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.437500,11.375000,--:--
+06,FM Emilia Romagna,RU9 Gropparello PC,RU9,,,430.225000,DUP+,1.600000,FM,TONE,77.0Hz,YES,Approximate,44.854167,9.708333,--:--
+06,FM Emilia Romagna,T in Oriolo dei Fichi-Faenza RA,T in,,,144.937500,OFF,0.000000,FM,TONE,77.0Hz,YES,Approximate,44.229167,11.875000,--:--
+06,FM Emilia Romagna,T in Spilamberto MO,T in,,,144.662500,OFF,0.000000,FM,TONE,131.8Hz,YES,Approximate,44.520833,11.041667,--:--
+06,FM Emilia Romagna,T out Spilamberto MO,T out,,,432.637500,OFF,0.000000,FM,TONE,131.8Hz,YES,Approximate,44.520833,11.041667,--:--
+07,FM Toscana,R0a M.Faggeta AR,R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.604167,11.958333,--:--
+07,FM Toscana,R1 Montenero LI,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.479167,10.375000,--:--
+07,FM Toscana,R1 Val Bisenzio PO,R1,,,145.625000,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.125000,--:--
+07,FM Toscana,R2 M.Amiata GR,R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.895833,11.625000,--:--
+07,FM Toscana,R3 Montieri GR,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.145833,10.958333,--:--
+07,FM Toscana,R3a Campocecina MS,R3a,,,145.687500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,44.104167,10.125000,--:--
+07,FM Toscana,R4a M.Labro GR,R4a,,,145.712500,DUP-,0.600000,FM,TONE,136.5Hz,YES,Approximate,42.812500,11.541667,--:--
+07,FM Toscana,R5 Prato PO,R5,,,145.725000,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,43.812500,11.208333,--:--
+07,FM Toscana,R5 San Vincenzo LI,R5,,,145.725000,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,43.104167,10.541667,--:--
+07,FM Toscana,R5a Cima del Monte - Elba LI,R5a,,,145.737500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,42.812500,10.375000,--:--
+07,FM Toscana,R5a Poggio Valicaia FI,R5a,,,145.737500,DUP-,0.600000,FM,TONE,146.2Hz,YES,Approximate,43.770833,11.208333,--:--
+07,FM Toscana,R6 Campocecina MS,R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,10.125000,--:--
+07,FM Toscana,R6 M.Secchieta FI,R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.729167,11.541667,--:--
+07,FM Toscana,R7 Seravezza LU,R7,,,145.775000,DUP-,0.600000,FM,TONE,114.8Hz,YES,Approximate,44.020833,10.208333,--:--
+07,FM Toscana,R7 Siena SI,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.395833,11.458333,--:--
+07,FM Toscana,R7a M.Secchieta FI,R7a,,,145.787500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,43.729167,11.541667,--:--
+07,FM Toscana,RU Casalguidi PT,RU,,,430.525000,DUP+,5.000000,FM,TONE,146.2Hz,YES,Approximate,43.854167,10.875000,--:--
+07,FM Toscana,RU Cortona AR,RU,,,430.400000,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,43.270833,11.958333,--:--
+07,FM Toscana,RU M.Amiata GR,RU,,,430.500000,DUP+,5.000000,FM,TONE,136.5Hz,YES,Approximate,42.895833,11.625000,--:--
+07,FM Toscana,RU Monte Capanne- Elba LI,RU,,,430.525000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,42.770833,10.208333,--:--
+07,FM Toscana,RU Monte Caselle LI,RU,,,430.650000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,42.937500,10.541667,--:--
+07,FM Toscana,RU Monte Giovi - Vicchio FI,RU,,,430.850000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.895833,11.458333,--:--
+07,FM Toscana,RU Treggiaia PI,RU,,,430.475000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.604167,10.708333,--:--
+07,FM Toscana,RU Val Bisenzio PO,RU,,,430.400000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.979167,11.125000,--:--
+07,FM Toscana,RU Val Bisenzio PO,RU,,,430.425000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.208333,--:--
+07,FM Toscana,RU Val Bisenzio PO,RU,,,430.700000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.104167,11.125000,--:--
+07,FM Toscana,RU Val Bisenzio PO,RU,,,430.725000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.041667,--:--
+07,FM Toscana,RU Volterra PI,RU,,,430.450000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.395833,10.875000,--:--
+07,FM Toscana,RU1 M.Oppio - San Marcello Pist. PT,RU1,,,430.025000,DUP+,1.600000,FM,TONE,79.7Hz,YES,Approximate,44.020833,10.791667,--:--
+07,FM Toscana,RU12 Frascole-Dicomano FI,RU12,,,430.300000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.895833,11.541667,--:--
+07,FM Toscana,RU12a Monte Meto LU,RU12a,,,430.312500,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,43.895833,10.291667,--:--
+07,FM Toscana,RU13 Civitella della Chiana AR,RU13,,,430.325000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,43.437500,11.708333,--:--
+07,FM Toscana,RU13 Poggio Valicaia FI,RU13,,,430.325000,DUP+,1.600000,FM,TONE,146.2Hz,YES,Approximate,43.729167,11.125000,--:--
+07,FM Toscana,RU14 M.Aquilaia GR,RU14,,,430.350000,DUP+,5.000000,FM,TONE,136.5Hz,YES,Approximate,42.854167,11.458333,--:--
+07,FM Toscana,RU14a Poggio Firenze FI,RU14a,,,430.362500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.687500,11.375000,--:--
+07,FM Toscana,RU15a Val Bisenzio PO,RU15a,,,430.750000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.125000,--:--
+07,FM Toscana,RU16 Poggio Ciliegio PO,RU16,,,431.225000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.812500,11.208333,--:--
+07,FM Toscana,RU21 Poggio Ciliegio PO,RU21,,,431.350000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.812500,11.208333,--:--
+07,FM Toscana,RU24 M.Labro GR,RU24,,,431.425000,DUP+,1.600000,FM,TONE,131.8Hz,YES,Approximate,42.812500,11.541667,--:--
+07,FM Toscana,RU31a M.Serra LU,RU31a,,,431.612500,DUP+,1.600000,FM,TONE,79.7Hz,YES,Approximate,43.770833,10.541667,--:--
+07,FM Toscana,RU3a Campocecina MS,RU3a,,,430.087500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,10.125000,--:--
+07,FM Toscana,RU4 M.Secchieta FI,RU4,,,430.100000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.729167,11.541667,--:--
+07,FM Toscana,RU4a M.Grosso MS,RU4a,,,430.112500,DUP+,1.600000,FM,TONE,79.7Hz,YES,Approximate,44.229167,9.958333,--:--
+07,FM Toscana,RU5 Grosseto GR,RU5,,,430.125000,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,42.812500,11.125000,--:--
+07,FM Toscana,RU5 M.Faggeta AR,RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.604167,11.958333,--:--
+07,FM Toscana,RU6 Campocecina MS,RU6,,,430.150000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,10.125000,--:--
+07,FM Toscana,RU8a Poggio Alberaccio FI,RU8a,,,430.212500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.770833,11.375000,--:--
+07,FM Toscana,RU9a Zeri -M.Fabei MS,RU9a,,,430.237500,DUP+,5.000000,FM,TONE,79.7Hz,YES,Approximate,44.395833,9.708333,--:--
+07,FM Toscana,RV Treggiaia Pontedera PI,RV,,,145.537500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,43.604167,10.708333,--:--
+07,FM Toscana,RV-1a M.Amiata GR,RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,42.895833,11.625000,--:--
+07,FM Toscana,T Campi SI,T,,,144.687500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,43.395833,11.458333,--:--
+07,FM Toscana,T Campi SI,T,,,432.687500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,43.395833,11.458333,--:--
+07,FM Toscana,T Campiglia Marittima LI,T,,,144.675000,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,43.062500,10.625000,--:--
+07,FM Toscana,T Campiglia Marittima LI,T,,,432.675000,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,43.062500,10.625000,--:--
+07,FM Toscana,T Val Bisenzio PO,T,,,144.562500,OFF,0.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.125000,--:--
+07,FM Toscana,T Val Bisenzio PO,T,,,144.687500,OFF,0.000000,FM,TONE,79.7Hz,YES,Approximate,44.104167,11.125000,--:--
+07,FM Toscana,T Val Bisenzio PO,T,,,430.987500,OFF,0.000000,FM,TONE,79.7Hz,YES,Approximate,44.020833,11.125000,--:--
+07,FM Toscana,T in M.Amiata GR,T in,,,144.625000,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,42.895833,11.625000,--:--
+08,FM Puglia,R0 Mola di Bari BA,R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.062500,17.125000,--:--
+08,FM Puglia,R0a Cassano Murge BA,R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.895833,16.791667,--:--
+08,FM Puglia,R0a Sava TA,R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.395833,17.541667,--:--
+08,FM Puglia,R1 Molfetta -Zona ASI BA,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.229167,16.541667,--:--
+08,FM Puglia,R1 Montesardo LE,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.854167,18.375000,--:--
+08,FM Puglia,R1a Martinafranca TA,R1a,,,145.637500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,40.687500,17.375000,--:--
+08,FM Puglia,R2 Statte TA,R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.562500,17.208333,--:--
+08,FM Puglia,R2a Minervino Murge BA,R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.104167,16.041667,--:--
+08,FM Puglia,R3 Taranto TA,R3,,,145.675000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,40.479167,17.291667,--:--
+08,FM Puglia,R4a Bari BA,R4a,,,145.712500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.104167,16.875000,--:--
+08,FM Puglia,R5 Castellaneta TA,R5,,,145.725000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,40.604167,16.875000,--:--
+08,FM Puglia,R5 Selva di Fasano BR,R5,,,145.725000,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,40.854167,17.375000,--:--
+08,FM Puglia,R5a Minervino Murge BT,R5a,,,145.737500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,41.104167,16.125000,--:--
+08,FM Puglia,R6a Mottola TA,R6a,,,145.762500,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,40.645833,17.041667,--:--
+08,FM Puglia,R7 M.Nero FG,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.729167,15.708333,--:--
+08,FM Puglia,R7a Lecce LE,R7a,,,145.787500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,40.312500,18.125000,--:--
+08,FM Puglia,R7a Lecce LE,R7a,,,145.787500,DUP-,0.600000,FM,TONE,82.5Hz,YES,Approximate,40.312500,18.125000,--:--
+08,FM Puglia,RU10 Rutigliano BA,RU10,,,430.250000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,41.020833,17.041667,--:--
+08,FM Puglia,RU14 Bari BA,RU14,,,430.350000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.020833,16.958333,--:--
+08,FM Puglia,RU2 Bari BA,RU2,,,430.050000,DUP+,5.000000,FM,TONE,100.0Hz,YES,Approximate,41.104167,16.875000,--:--
+08,FM Puglia,RU3 Mottola TA,RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.687500,17.125000,--:--
+08,FM Puglia,RU5 Minervino Murge BT,RU5,,,430.125000,DUP+,1.600000,FM,TONE,82.5Hz,YES,Approximate,41.104167,16.125000,--:--
+08,FM Puglia,RU6 Cassano Murge BA,RU6,,,430.150000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.895833,16.791667,--:--
+08,FM Puglia,RU7 Mola di Bari BA,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.062500,17.125000,--:--
+08,FM Puglia,RU7 Monte Sant'Angelo FG,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.854167,15.958333,--:--
+08,FM Puglia,RU8 Ginosa TA,RU8,,,430.200000,DUP+,5.000000,FM,TONE,82.5Hz,YES,Approximate,40.562500,16.791667,--:--
+08,FM Puglia,RU9 M.S.Angelo FG,RU9,,,430.225000,DUP+,1.600000,FM,TONE,100.0Hz,YES,Approximate,41.687500,15.958333,--:--
+08,FM Puglia,RU9a Giovinazzo BA,RU9a,,,430.237500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.187500,16.625000,--:--
+09,FM Trentino,R1 Polsa di Brentonico TN,R1,,,145.625000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,45.770833,10.958333,--:--
+09,FM Trentino,R1a M.Panarotta TN,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.062500,11.375000,--:--
+09,FM Trentino,R3 Castel Ivano TN,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.062500,11.541667,--:--
+09,FM Trentino,R3 M.Telegrafo BZ,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.687500,11.708333,--:--
+09,FM Trentino,R4 Roncone TN,R4,,,145.700000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,45.979167,10.708333,--:--
+09,FM Trentino,R5 M.Hirzer BZ,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.729167,11.208333,--:--
+09,FM Trentino,R5a M.Agaro TN,R5a,,,145.737500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.104167,11.625000,--:--
+09,FM Trentino,R6 M.Bondone TN,R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.062500,11.125000,--:--
+09,FM Trentino,R7 M.Macaion BZ,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.479167,11.208333,--:--
+09,FM Trentino,RU4a Cima Palon-M.Bondone TN,RU4a,,,430.112500,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,46.020833,11.041667,--:--
+09,FM Trentino,RU8 M. Finonchio TN,RU8,,,430.200000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,45.937500,11.125000,--:--
+09,FM Trentino,RV Valle di Ledro TN,RV,,,145.550000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,45.895833,10.708333,--:--
+09,FM Trentino,T M.Macaion BZ,T,,,145.312500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.687500,11.708333,--:--
+09,FM Trentino,T M.Seceda BZ,T,,,145.562500,OFF,0.000000,FM,TONE,123.0Hz,YES,Approximate,46.479167,11.208333,--:--
+09,FM Trentino,T M.Seceda BZ,T,,,435.025000,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.604167,11.708333,--:--
+10,FM Friuli,R0 Muggia TS,R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.604167,13.791667,--:--
+10,FM Friuli,R0a Latisana UD,R0a,,,145.612500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.770833,12.958333,--:--
+10,FM Friuli,R1a Cividale del Friuli UD,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.187500,13.458333,--:--
+10,FM Friuli,R2a Gorizia GO,R2a,,,145.662500,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,45.937500,13.625000,--:--
+10,FM Friuli,R2a M.Lussari UD,R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.479167,13.541667,--:--
+10,FM Friuli,R3a M.Verzegnis UD,R3a,,,145.687500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.354167,12.958333,--:--
+10,FM Friuli,R5 M.San Simeone UD,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.354167,13.125000,--:--
+10,FM Friuli,R7 M.Jouf PN,R7,,,145.775000,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,46.187500,12.708333,--:--
+10,FM Friuli,RU Palmanova UD,RU,,,430.500000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.895833,13.291667,--:--
+10,FM Friuli,RU1 M.Jouf PN,RU1,,,430.025000,DUP+,1.600000,FM,TONE,118.8Hz,YES,Approximate,46.187500,12.708333,--:--
+10,FM Friuli,RU10 M.Jouf PN,RU10,,,430.250000,DUP+,1.600000,FM,TONE,123.0Hz,YES,Approximate,46.187500,12.708333,--:--
+10,FM Friuli,RU22a M.Grisa TS,RU22a,,,431.387500,DUP+,1.600000,FM,TONE,118.8Hz,YES,Approximate,45.687500,13.708333,--:--
+10,FM Friuli,RU7 Reana UD,RU7,,,430.175000,DUP+,1.600000,FM,TONE,118.8Hz,YES,Approximate,46.145833,13.208333,--:--
+10,FM Friuli,RU8 Tolmezzo UD,RU8,,,430.200000,DUP+,1.600000,FM,TONE,118.8Hz,YES,Approximate,46.437500,12.958333,--:--
+10,FM Friuli,T M.Zoncolan UD,T,,,430.437500,OFF,0.000000,FM,OFF,88.5Hz,YES,Approximate,46.520833,12.958333,--:--
+11,FM Umbria,R0 M.Serano PG,R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.854167,12.791667,--:--
+11,FM Umbria,R1 Gubbio PG,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.354167,12.125000,--:--
+11,FM Umbria,R2a Perugia PG,R2a,,,145.662500,DUP-,0.600000,FM,TONE,114.8Hz,YES,Approximate,43.104167,12.375000,--:--
+11,FM Umbria,R3a Gubbio PG,R3a,,,145.687500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.895833,12.958333,--:--
+11,FM Umbria,R4 M.Cosce TR,R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,12.625000,--:--
+11,FM Umbria,R4a Monte Santa Maria Tiberina PG,R4a,,,145.712500,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,43.437500,12.125000,--:--
+11,FM Umbria,R6 Perugia PG,R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.104167,12.375000,--:--
+11,FM Umbria,RU1 M.Serano PG,RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.854167,12.791667,--:--
+11,FM Umbria,RU2 Pale Foligno PG,RU2,,,430.050000,DUP+,5.000000,FM,TONE,91.5Hz,YES,Approximate,43.104167,12.458333,--:--
+11,FM Umbria,RU30a M.Cucco PG,RU30a,,,431.587500,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.354167,12.791667,--:--
+11,FM Umbria,RU8 M.Giove -San Giustino PG,RU8,,,430.200000,DUP+,1.600000,FM,TONE,123.0Hz,YES,Approximate,43.562500,12.208333,--:--
+12,FM Lazio,R0 Capranica Prenestina RM,R0,,,145.600000,DUP-,0.600000,FM,TONE,156.7Hz,YES,Approximate,41.854167,12.958333,--:--
+12,FM Lazio,R0a Allumiere RM,R0a,,,145.612500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,42.145833,11.875000,--:--
+12,FM Lazio,R1 M.Guadagnolo RM,R1,,,145.625000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.895833,12.958333,--:--
+12,FM Lazio,R1a M.Calvo FR,R1a,,,145.637500,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.395833,13.375000,--:--
+12,FM Lazio,R2 Castelli Romani RM,R2,,,145.650000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.770833,12.708333,--:--
+12,FM Lazio,R2a M.Trevi- Sezze LT,R2a,,,145.662500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.479167,13.041667,--:--
+12,FM Lazio,R3 M.Tiburtini RM,R3,,,145.675000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.937500,12.791667,--:--
+12,FM Lazio,R3a Campocatino FR,R3a,,,145.687500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.854167,13.291667,--:--
+12,FM Lazio,R4 Latina LT,R4,,,145.700000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.437500,14.875000,--:--
+12,FM Lazio,R4 M.Maio FR,R4,,,145.700000,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.520833,13.875000,--:--
+12,FM Lazio,R5 M.Terminillo RI,R5,,,145.725000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,42.479167,12.958333,--:--
+12,FM Lazio,R5a Spigno Saturnia LT,R5a,,,145.737500,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.312500,13.708333,--:--
+12,FM Lazio,R6a Formia LT,R6a,,,145.762500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.270833,13.625000,--:--
+12,FM Lazio,R6a M.Cimini - Caprarola VT,R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.354167,12.125000,--:--
+12,FM Lazio,R7 Santopadre FR,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.604167,13.625000,--:--
+12,FM Lazio,R7a M.Guadagnolo RM,R7a,,,145.787500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.937500,12.958333,--:--
+12,FM Lazio,R7a Ponza LT,R7a,,,145.787500,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,40.895833,12.958333,--:--
+12,FM Lazio,RU Campo Catino FR,RU,,,430.450000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.812500,13.375000,--:--
+12,FM Lazio,RU M.Trevi LT,RU,,,430.650000,DUP+,5.000000,FM,TONE,77.0Hz,YES,Approximate,41.479167,13.041667,--:--
+12,FM Lazio,RU Montecompatri RM,RU,,,433.800000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,41.812500,12.708333,--:--
+12,FM Lazio,RU Rocca Priora RM,RU,,,430.575000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.770833,12.791667,--:--
+12,FM Lazio,RU Rocca Priora RM,RU,,,430.825000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.770833,12.791667,--:--
+12,FM Lazio,RU Selva Rotonda RI,RU,,,433.800000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.604167,13.125000,--:--
+12,FM Lazio,RU Velletri RM,RU,,,430.475000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.687500,12.791667,--:--
+12,FM Lazio,RU1 Santa Marinella RM,RU1,,,430.025000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.020833,11.875000,--:--
+12,FM Lazio,RU10 M.Cimini VT,RU10,,,430.250000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.354167,12.125000,--:--
+12,FM Lazio,RU10 M.Maio FR,RU10,,,430.250000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.520833,13.875000,--:--
+12,FM Lazio,RU11 Castelli Romani RM,RU11,,,430.275000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,41.729167,12.708333,--:--
+12,FM Lazio,RU12 M.Gennaro RM,RU12,,,430.300000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,42.062500,12.791667,--:--
+12,FM Lazio,RU14 Latina LT,RU14,,,430.350000,DUP+,5.000000,FM,TONE,77.0Hz,YES,Approximate,41.437500,14.875000,--:--
+12,FM Lazio,RU15 M.Onofrio LT,RU15,,,430.375000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.270833,13.541667,--:--
+12,FM Lazio,RU19 Vigna di Valle RM,RU19,,,431.300000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.062500,12.208333,--:--
+12,FM Lazio,RU1a M.Circeo LT,RU1a,,,430.037500,DUP+,5.000000,FM,TONE,77.0Hz,YES,Approximate,41.229167,13.041667,--:--
+12,FM Lazio,RU23 Civitavecchia RM,RU23,,,431.400000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.145833,11.791667,--:--
+12,FM Lazio,RU23a M.Faggio LT,RU23a,,,431.412500,DUP+,1.600000,FM,TONE,103.5Hz,YES,Approximate,41.395833,13.541667,--:--
+12,FM Lazio,RU24 Vivaro Romano RM,RU24,,,431.425000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.104167,12.958333,--:--
+12,FM Lazio,RU3 M.Terminillo RI,RU3,,,430.075000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,42.479167,12.958333,--:--
+12,FM Lazio,RU30 M.Circello LT,RU30,,,431.575000,DUP+,1.600000,FM,TONE,103.5Hz,YES,Approximate,41.229167,13.041667,--:--
+12,FM Lazio,RU32 M.Cavo RM,RU32,,,431.625000,DUP+,1.600000,FM,TONE,103.5Hz,YES,Approximate,41.770833,12.708333,--:--
+12,FM Lazio,RU4 Gaeta LT,RU4,,,430.100000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.187500,13.541667,--:--
+12,FM Lazio,RU4a M,Calvo FR,RU4a,,,430.112500,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.270833,13.625000,--:--
+12,FM Lazio,RU5 M.Guadagnolo RM,RU5,,,430.125000,DUP+,5.000000,FM,TONE,67.0Hz,YES,Approximate,41.937500,12.958333,--:--
+12,FM Lazio,RU6 Gaeta LT,RU6,,,430.150000,DUP+,5.000000,FM,TONE,118.8Hz,YES,Approximate,41.187500,13.541667,--:--
+12,FM Lazio,RU6 M.Gennaro RM,RU6,,,430.150000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,42.062500,12.791667,--:--
+12,FM Lazio,RU8 Campo Staffi - Filettino FR,RU8,,,430.200000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,41.937500,13.375000,--:--
+12,FM Lazio,RU8 M.Paradiso RM,RU8,,,430.200000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.104167,11.875000,--:--
+12,FM Lazio,RU9 Gaeta LT,RU9,,,430.225000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.187500,13.541667,--:--
+12,FM Lazio,RU9 M.Terminillo RI,RU9,,,430.225000,DUP+,1.600000,FM,TONE,67.0Hz,YES,Approximate,42.479167,12.958333,--:--
+12,FM Lazio,RV Campocatino FR,RV,,,145.500000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,41.854167,13.291667,--:--
+12,FM Lazio,RV Campocatino FR,RV,,,145.562500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,41.854167,13.291667,--:--
+12,FM Lazio,RV M.Calvo FR,RV,,,145.525000,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,41.395833,13.375000,--:--
+12,FM Lazio,RV M.Gennaro RM,RV,,,145.375000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,42.062500,12.791667,--:--
+12,FM Lazio,RV Vigna di Valle RM,RV,,,145.425000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,42.062500,12.208333,--:--
+13,FM Calabria,R0a M.Poro CZ,R0a,,,145.612500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.604167,15.875000,--:--
+13,FM Calabria,R1 Montechiarello RC,R1,,,145.625000,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.145833,15.708333,--:--
+13,FM Calabria,R1a Galatro RC,R1a,,,145.637500,DUP-,0.600000,FM,TONE,141.8Hz,YES,Approximate,38.437500,16.125000,--:--
+13,FM Calabria,R2 Catanzaro CZ,R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.895833,16.625000,--:--
+13,FM Calabria,R2 Mancino RC,R2,,,145.650000,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.354167,16.375000,--:--
+13,FM Calabria,R3a Joppolo - M.Poro VV,R3a,,,145.687500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.604167,15.875000,--:--
+13,FM Calabria,R3a Villa San Giovanni RC,R3a,,,145.687500,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,38.229167,15.625000,--:--
+13,FM Calabria,R4 Gasperina CZ,R4,,,145.700000,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.729167,16.541667,--:--
+13,FM Calabria,R4a M.Botte Donato CS,R4a,,,145.712500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,39.270833,16.458333,--:--
+13,FM Calabria,R5 Lappano CS,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.312500,16.291667,--:--
+13,FM Calabria,R5 San Vito Serralta CZ,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.770833,16.375000,--:--
+13,FM Calabria,R5a Polistena RC,R5a,,,145.737500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.395833,16.041667,--:--
+13,FM Calabria,R7 M.Cozzo Cervello CS,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.395833,16.125000,--:--
+13,FM Calabria,RU Filandari VV,RU,,,430.500000,DUP+,5.000000,FM,TONE,107.2Hz,YES,Approximate,38.979167,16.291667,--:--
+13,FM Calabria,RU1 S.Stefano d'Aspromonte RC,RU1,,,430.025000,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,38.145833,15.875000,--:--
+13,FM Calabria,RU11 Reggio Calabria RC,RU11,,,430.275000,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,38.187500,15.625000,--:--
+13,FM Calabria,RU13 Villa San Giovanni RC,RU13,,,430.325000,DUP+,1.600000,FM,TONE,79.7Hz,YES,Approximate,38.229167,15.625000,--:--
+13,FM Calabria,RU2 M.S.Andrea RC,RU2,,,430.050000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.937500,16.458333,--:--
+13,FM Calabria,RU24 San Lorenzo Superiore RC,RU24,,,431.437500,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.791667,--:--
+13,FM Calabria,RU24a San Lorenzo di Reggio Calabria RC,RU24a,,,431.437500,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.875000,--:--
+13,FM Calabria,RU3 San Giovanni in Fiore CS,RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.270833,16.708333,--:--
+13,FM Calabria,RU4 Catanzaro CZ,RU4,,,430.100000,DUP+,5.000000,FM,TONE,107.2Hz,YES,Approximate,38.979167,16.291667,--:--
+13,FM Calabria,RU5a Campicello RC,RU5a,,,430.137500,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,38.020833,15.708333,--:--
+13,FM Calabria,RU6 Serra Crista - Acri CS,RU6,,,430.150000,DUP+,1.600000,FM,TONE,107.2Hz,YES,Approximate,39.479167,16.375000,--:--
+13,FM Calabria,RU7 Monte Scuro CS,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.312500,16.375000,--:--
+13,FM Calabria,RU9 Pietrapennata RC,RU9,,,430.225000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.979167,14.041667,--:--
+13,FM Calabria,RV Barrittieri di Seminara RC,RV,,,145.300000,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.312500,15.875000,--:--
+13,FM Calabria,RV San Lorenzo Superiore RC,RV,,,145.562500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.791667,--:--
+13,FM Calabria,RV San Lorenzo di Reggio Calabria RC,RV,,,145.562500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.875000,--:--
+13,FM Calabria,RV-1a M.Bucolia CZ,RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.979167,16.291667,--:--
+13,FM Calabria,RV-1a Monte San Demetrio RC,RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,107.2Hz,YES,Approximate,38.062500,15.708333,--:--
+13,FM Calabria,T Barrittieri di Seminara RC,T,,,432.100000,OFF,0.000000,FM,TONE,107.2Hz,YES,Approximate,38.312500,15.875000,--:--
+13,FM Calabria,T Pellaro RC,T,,,435.012500,OFF,0.000000,FM,TONE,94.8Hz,YES,Approximate,38.020833,14.291667,--:--
+13,FM Calabria,T Pietrapennata RC,T,,,145.462500,OFF,0.000000,FM,TONE,77.0Hz,YES,Approximate,38.979167,14.041667,--:--
+14,FM Sicilia,R0 Ragusa RG,R0,,,145.600000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.020833,14.708333,--:--
+14,FM Sicilia,R0 Ribera AG,R0,,,145.600000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.520833,13.291667,--:--
+14,FM Sicilia,R0a Pantelleria TP,R0a,,,145.612500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,36.770833,12.041667,--:--
+14,FM Sicilia,R0a Venetico ME,R0a,,,145.612500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.229167,15.375000,--:--
+14,FM Sicilia,R1 C. Umberto ME,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.104167,14.791667,--:--
+14,FM Sicilia,R1 Cefalu' PA,R1,,,145.625000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.979167,14.041667,--:--
+14,FM Sicilia,R1a M.Meli - Siculiana AG,R1a,,,145.637500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.354167,13.458333,--:--
+14,FM Sicilia,R1a Murfi -Buseto Palizzolo TP,R1a,,,145.637500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.020833,14.541667,--:--
+14,FM Sicilia,R1a Tipoldo ME,R1a,,,145.637500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.145833,15.458333,--:--
+14,FM Sicilia,R2 Caltanisetta CL,R2,,,145.650000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.479167,14.041667,--:--
+14,FM Sicilia,R2 M.Kalfa - Roccafiorita ME,R2,,,145.650000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.937500,15.291667,--:--
+14,FM Sicilia,R2 M.S.Angelo - Lipari MS,R2,,,145.650000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.479167,14.958333,--:--
+14,FM Sicilia,R2 Partanna TP,R2,,,145.650000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.729167,12.875000,--:--
+14,FM Sicilia,R2a Messina ME,R2a,,,145.662500,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,38.229167,15.541667,--:--
+14,FM Sicilia,R3 Gioiosa Marea ME,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.187500,14.875000,--:--
+14,FM Sicilia,R3 M.Rotondo ME,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,38.104167,14.791667,--:--
+14,FM Sicilia,R3 Plemmirio SR,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,37.020833,15.291667,--:--
+14,FM Sicilia,R3a Linguaglossa CT,R3a,,,145.687500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.812500,15.125000,--:--
+14,FM Sicilia,R3a M.Pecoraro - Cinisi PA,R3a,,,145.687500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.145833,13.125000,--:--
+14,FM Sicilia,R3a Niscemi CL,R3a,,,145.687500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,37.145833,14.375000,--:--
+14,FM Sicilia,R4 M. Pellegrino PA,R4,,,145.700000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.145833,13.375000,--:--
+14,FM Sicilia,R4 Palermo PA,R4,,,145.700000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.104167,13.291667,--:--
+14,FM Sicilia,R4a Santo Stefano Quisquina AG,R4a,,,145.712500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.604167,13.541667,--:--
+14,FM Sicilia,R5 M.Etna CT,R5,,,145.725000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.770833,15.041667,--:--
+14,FM Sicilia,R5 Partanna TP,R5,,,145.725000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.729167,12.875000,--:--
+14,FM Sicilia,R5a Castellanmare del Golfo TP,R5a,,,145.737500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,38.020833,12.875000,--:--
+14,FM Sicilia,R6 Pizzo Chiarino ME,R6,,,145.750000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.187500,15.458333,--:--
+14,FM Sicilia,R6a Ispica RG,R6a,,,145.762500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,36.770833,14.875000,--:--
+14,FM Sicilia,R7 M.Erice TP,R7,,,145.775000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.020833,12.625000,--:--
+14,FM Sicilia,R7a Caltabellotta TP,R7a,,,145.787500,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.604167,13.208333,--:--
+14,FM Sicilia,R7a M.Arcibessi  Chiaramonte Gulfi RG,R7a,,,145.787500,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,37.020833,14.708333,--:--
+14,FM Sicilia,R7a M.Pellegrino PA,R7a,,,145.787500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,38.145833,13.375000,--:--
+14,FM Sicilia,RU Rupe Atenea AG,RU,,,430.500000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,37.312500,13.625000,--:--
+14,FM Sicilia,RU San Giovanni Gemini AG,RU,,,430.900000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,37.604167,13.625000,--:--
+14,FM Sicilia,RU Tipoldo ME,RU,,,430.475000,DUP+,5.000000,FM,TONE,107.2Hz,YES,Approximate,38.145833,15.458333,--:--
+14,FM Sicilia,RU1 Caltagirone CT,RU1,,,430.025000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.229167,14.541667,--:--
+14,FM Sicilia,RU1 Marina di Ragusa RG,RU1,,,430.025000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,36.770833,14.541667,--:--
+14,FM Sicilia,RU10 Troina EN,RU10,,,430.250000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.770833,14.625000,--:--
+14,FM Sicilia,RU11 Ispica RG,RU11,,,430.275000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,36.770833,14.875000,--:--
+14,FM Sicilia,RU12 Salemi - Monte Rose TP,RU12,,,430.300000,DUP+,5.000000,FM,TONE,94.8Hz,YES,Approximate,37.812500,12.791667,--:--
+14,FM Sicilia,RU13 Portella ME,RU13,,,430.325000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.854167,14.708333,--:--
+14,FM Sicilia,RU15 M. Grifone PA,RU15,,,430.375000,DUP+,5.000000,FM,TONE,127.3Hz,YES,Approximate,38.062500,13.375000,--:--
+14,FM Sicilia,RU18a Cresta di Naso ME,RU18a,,,431.287500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.145833,14.791667,--:--
+14,FM Sicilia,RU2 Catania CT,RU2,,,430.050000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,37.520833,15.125000,--:--
+14,FM Sicilia,RU25 Messina ME,RU25,,,431.450000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,38.229167,15.541667,--:--
+14,FM Sicilia,RU3 Belvedere di Siracusa SR,RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,37.104167,15.208333,--:--
+14,FM Sicilia,RU3 S.Margherita di Belice AG,RU3,,,430.075000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,37.687500,13.041667,--:--
+14,FM Sicilia,RU4 Pizzo Chiarino ME,RU4,,,430.100000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,38.187500,15.458333,--:--
+14,FM Sicilia,RU4 Vita TP,RU4,,,430.100000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,37.854167,12.791667,--:--
+14,FM Sicilia,RU5 Capo Tindari ME,RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.145833,15.041667,--:--
+14,FM Sicilia,RU5 Carini PA,RU5,,,430.125000,DUP+,5.000000,FM,TONE,118.8Hz,YES,Approximate,38.145833,13.208333,--:--
+14,FM Sicilia,RU5 Castelmola CT,RU5,,,430.150000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.854167,15.291667,--:--
+14,FM Sicilia,RU5 M.Veneretta ME,RU5,,,430.125000,DUP+,1.600000,FM,TONE,127.3Hz,YES,Approximate,37.854167,15.291667,--:--
+14,FM Sicilia,RU6 Niscemi CL,RU6,,,430.150000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,37.145833,14.375000,--:--
+14,FM Sicilia,RU7 Modica RG,RU7,,,430.175000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,36.854167,14.791667,--:--
+14,FM Sicilia,RU7 Trapani TP,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,38.020833,12.625000,--:--
+14,FM Sicilia,RU8 Calatafimi TP,RU8,,,430.200000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,37.937500,12.875000,--:--
+14,FM Sicilia,RU9 Ragusa RG,RU9,,,430.225000,DUP+,1.600000,FM,TONE,94.8Hz,YES,Approximate,36.895833,14.708333,--:--
+14,FM Sicilia,RV Giarre CT) CT,RV,,,145.475000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,37.729167,15.125000,--:--
+14,FM Sicilia,RV Portella ME,RV,,,145.500000,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,37.854167,14.708333,--:--
+14,FM Sicilia,RV-1 Salemi TP,RV-1,,,145.575000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,36.812500,14.791667,--:--
+14,FM Sicilia,T Colle Tirone -Avola SR,T,,,145.212500,OFF,0.000000,FM,TONE,123.0Hz,YES,Approximate,36.895833,15.125000,--:--
+14,FM Sicilia,T Colle Tirone -Avola SR,T,,,433.575000,OFF,0.000000,FM,TONE,123.0Hz,YES,Approximate,36.895833,15.125000,--:--
+14,FM Sicilia,T Nizza di Sicilia ME,T,,,145.412500,OFF,0.000000,FM,TONE,107.2Hz,YES,Approximate,38.020833,15.375000,--:--
+14,FM Sicilia,T Roccafiorita ME,T,,,145.437500,OFF,0.000000,FM,TONE,77.0Hz,YES,Approximate,38.937500,15.291667,--:--
+14,FM Sicilia,T Tipoldo ME,T,,,430.462500,OFF,0.000000,FM,TONE,94.8Hz,YES,Approximate,38.145833,15.458333,--:--
+15,FM Abruzzo,R0 Le Serre di Goriano AQ,R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.062500,13.791667,--:--
+15,FM Abruzzo,R1 Campo Imperatore AQ,R1,,,145.625000,DUP-,0.600000,FM,TONE,97.4Hz,YES,Approximate,42.437500,13.541667,--:--
+15,FM Abruzzo,R2a M.Freddo AQ,R2a,,,145.662500,DUP-,0.600000,FM,TONE,97.4Hz,YES,Approximate,42.145833,13.458333,--:--
+15,FM Abruzzo,R3 Colle SanGiacomo AQ,R3,,,145.675000,DUP-,0.600000,FM,TONE,97.4Hz,YES,Approximate,42.354167,13.458333,--:--
+15,FM Abruzzo,R3 Santo Stefano - Torricella TE,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.645833,13.625000,--:--
+15,FM Abruzzo,R4 M.Maiella PE,R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.145833,14.125000,--:--
+15,FM Abruzzo,R4a Roccaraso AQ,R4a,,,145.712500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.854167,14.041667,--:--
+15,FM Abruzzo,R5 Colle Badette-Tortoreto TE,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.812500,13.875000,--:--
+15,FM Abruzzo,R6 Prati di Tivo TE,R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.479167,13.541667,--:--
+15,FM Abruzzo,R6a Liscia CH,R6a,,,145.762500,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,41.937500,14.541667,--:--
+15,FM Abruzzo,R6a San Benedetto in Perillis AQ,R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.187500,13.791667,--:--
+15,FM Abruzzo,R7a Citta' S.Angelo PE,R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.520833,14.041667,--:--
+15,FM Abruzzo,RU1 M.Le Serre AQ,RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.395833,13.708333,--:--
+15,FM Abruzzo,RU1 M.Piselli TE,RU1,,,430.025000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,42.770833,13.541667,--:--
+15,FM Abruzzo,RU15 M.Luco di Roio AQ,RU15,,,430.375000,DUP+,1.600000,FM,TONE,97.4Hz,YES,Approximate,42.354167,13.375000,--:--
+15,FM Abruzzo,RU5 M.Ocre - Campo Felice AQ,RU5,,,430.125000,DUP+,1.600000,FM,TONE,97.4Hz,YES,Approximate,42.312500,13.375000,--:--
+15,FM Abruzzo,RU7 M.Freddo AQ,RU7,,,430.175000,DUP+,1.600000,FM,TONE,97.4Hz,YES,Approximate,42.145833,13.458333,--:--
+15,FM Abruzzo,RU8 M.Maiella PE,RU8,,,430.200000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.145833,14.125000,--:--
+16,FM Campania,R0 Ischia NA,R0,,,145.600000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.729167,13.875000,--:--
+16,FM Campania,R1 Pozzuoli NA,R1,,,145.625000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.854167,14.125000,--:--
+16,FM Campania,R1a M.Stella Cilento SA,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.229167,15.041667,--:--
+16,FM Campania,R1a Pietraroja BN,R1a,,,145.637500,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,41.354167,14.541667,--:--
+16,FM Campania,R2 Ischia NA,R2,,,145.650000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.729167,13.958333,--:--
+16,FM Campania,R3 Roccamonfina CE,R3,,,145.675000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,41.270833,13.958333,--:--
+16,FM Campania,R4 Caserta CE,R4,,,145.700000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,41.104167,14.375000,--:--
+16,FM Campania,R4 Sala Consilina SA,R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.395833,15.625000,--:--
+16,FM Campania,R5 Chiusano San Domenico AV,R5,,,145.725000,DUP-,0.600000,FM,TONE,118.8Hz,YES,Approximate,40.937500,14.958333,--:--
+16,FM Campania,R5a M.Vesole SA,R5a,,,145.737500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.395833,15.125000,--:--
+16,FM Campania,R5a San Marco ai Monti BN,R5a,,,145.737500,DUP-,0.600000,FM,TONE,94.8Hz,YES,Approximate,41.062500,14.791667,--:--
+16,FM Campania,R6 M.Pizzone AV,R6,,,145.750000,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.895833,14.708333,--:--
+16,FM Campania,R6a M.Tubenna SA,R6a,,,145.762500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.729167,14.875000,--:--
+16,FM Campania,R6a Portici NA,R6a,,,145.762500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.812500,14.375000,--:--
+16,FM Campania,R7 m. S. Liberatore - Cava deTirreni SA,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.687500,14.708333,--:--
+16,FM Campania,RU1 Capua CE,RU1,,,430.025000,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,41.104167,14.208333,--:--
+16,FM Campania,RU1 Napoli NA,RU1,,,430.025000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.854167,14.208333,--:--
+16,FM Campania,RU11a Roccamonfina CE,RU11a,,,430.287500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,41.312500,13.958333,--:--
+16,FM Campania,RU12 M.Vergine AV,RU12,,,430.300000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.937500,14.708333,--:--
+16,FM Campania,RU15 M.S.Angelo SA,RU15,,,430.375000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.729167,14.625000,--:--
+16,FM Campania,RU15a M.Somma NA,RU15a,,,430.387500,DUP+,5.000000,FM,TONE,71.9Hz,YES,Approximate,40.854167,14.458333,--:--
+16,FM Campania,RU18a M.Taburno BN,RU18a,,,431.287500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,41.104167,14.625000,--:--
+16,FM Campania,RU22 Pozzuoli NA,RU22,,,431.375000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.854167,14.125000,--:--
+16,FM Campania,RU25a Pozzuoli NA,RU25a,,,431.462500,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.812500,14.125000,--:--
+16,FM Campania,RU3 M.S.Angelo SA,RU3,,,430.075000,DUP+,1.600000,FM,TONE,71.9Hz,YES,Approximate,40.729167,14.625000,--:--
+16,FM Campania,RU7 M. S. Liberatore - Cava deTirreni SA,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.687500,14.708333,--:--
+16,FM Campania,RU9 Sessa Aurunca CE,RU9,,,430.225000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.229167,13.958333,--:--
+16,FM Campania,RV-1a M.Vesuvio NA,RV-1a,,,145.587500,DUP-,0.600000,FM,TONE,71.9Hz,YES,Approximate,40.812500,14.375000,--:--
+16,FM Campania,RV-1a Santa Marina SA,RV-1a,,,145.587500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.104167,15.541667,--:--
+17,FM Valle d'Aosta,R0 Courmayeur AO,R0,,,145.600000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,45.770833,6.958333,--:--
+17,FM Valle d'Aosta,R6 Saint Vincent AO,R6,,,145.750000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,45.770833,7.625000,--:--
+18,FM Marche,R0 M.Ascensione AP,R0,,,145.600000,DUP-,0.600000,FM,TONE,127.3Hz,YES,Approximate,42.937500,13.541667,--:--
+18,FM Marche,R4 M.La Croce AN,R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.395833,12.958333,--:--
+18,FM Marche,R4a San Benedetto del Tronto AP,R4a,,,145.712500,DUP-,0.600000,FM,TONE,85.4Hz,YES,Approximate,42.937500,13.875000,--:--
+18,FM Marche,R5 Ancona AN,R5,,,145.725000,DUP-,0.600000,FM,TONE,85.4Hz,YES,Approximate,43.604167,13.541667,--:--
+18,FM Marche,R7 Potenza Picena MC,R7,,,145.775000,DUP-,0.600000,FM,TONE,85.4Hz,YES,Approximate,43.354167,13.625000,--:--
+18,FM Marche,RU21 Montegrimano PU,RU21,,,431.350000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.854167,12.458333,--:--
+18,FM Marche,RU28 Montefelcino AN,RU28,,,431.525000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.770833,12.791667,--:--
+18,FM Marche,RU29 Falconara AN,RU29,,,431.550000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.604167,13.375000,--:--
+18,FM Marche,RU30 M.Nerone PU,RU30,,,431.575000,DUP+,4.000000,FM,OFF,88.5Hz,YES,Approximate,43.562500,12.541667,--:--
+18,FM Marche,RU30a Monte Cucco AN,RU30a,,,431.587500,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.354167,12.791667,--:--
+18,FM Marche,RU31 Monte Aria-Macerata MC,RU31,,,431.600000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.187500,13.125000,--:--
+18,FM Marche,RU7 Ancona AN,RU7,,,430.175000,DUP+,1.600000,FM,TONE,85.4Hz,YES,Approximate,43.604167,13.541667,--:--
+18,FM Marche,RU8 M.La Croce AN,RU8,,,430.200000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.395833,12.958333,--:--
+18,FM Marche,RU9 Senigallia AN,RU9,,,430.225000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.645833,13.208333,--:--
+19,FM Basilicata,R0 M.Pierfaone PZ,R0,,,145.600000,DUP-,0.600000,FM,TONE,110.9Hz,YES,Approximate,40.520833,15.791667,--:--
+19,FM Basilicata,RU Banzi PZ,RU,,,430.500000,DUP+,5.000000,FM,TONE,110.9Hz,YES,Approximate,40.895833,16.041667,--:--
+19,FM Basilicata,RU3a M.Pierfaone PZ,RU3a,,,430.087500,DUP+,1.600000,FM,TONE,110.9Hz,YES,Approximate,40.520833,15.791667,--:--
+20,FM Molise,R3a S.Angelo Limosano CB,R3a,,,145.687500,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.687500,14.625000,--:--
+20,FM Molise,R6 M.Patalecchia IS,R6,,,145.750000,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,41.562500,14.375000,--:--
+20,FM Molise,RU6 Rionero Sannitico IS,RU6,,,430.150000,DUP+,5.000000,FM,TONE,103.5Hz,YES,Approximate,41.395833,14.125000,--:--
+20,FM Molise,RU6a Guglionesi CB,RU6a,,,430.162500,DUP+,1.600000,FM,TONE,103.5Hz,YES,Approximate,41.937500,14.875000,--:--
+20,FM Molise,RU7 Rionero Sannitico IS,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,41.729167,14.125000,--:--
+21,FM Sardegna,R0 M.Rasu SS,R0,,,145.600000,DUP-,0.600000,FM,TONE,123.0Hz,YES,Approximate,40.729167,8.708333,--:--
+21,FM Sardegna,R0a Abbasanta OR,R0a,,,145.612500,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.145833,8.791667,--:--
+21,FM Sardegna,R1 Arbus - Punta Tintillonis SU,R1,,,145.625000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,49.520833,8.541667,--:--
+21,FM Sardegna,R1 Capoterra - Torre degli Ulivi CA,R1,,,145.625000,DUP-,0.600000,FM,TONE,67.0Hz,YES,Approximate,39.145833,9.041667,--:--
+21,FM Sardegna,R1 Punta Tricoli - Gairo OG,R1,,,145.625000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,39.854167,9.541667,--:--
+21,FM Sardegna,R2 Punta Sebera CA,R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.062500,8.791667,--:--
+21,FM Sardegna,R2a Cabu Aspru SS,R2a,,,145.662500,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.854167,8.291667,--:--
+21,FM Sardegna,R3 M.Tului-Dorgali NU,R3,,,145.675000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.270833,9.625000,--:--
+21,FM Sardegna,R4 Abbasanta OR,R4,,,145.700000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.145833,8.791667,--:--
+21,FM Sardegna,R5 S.Anna di Lode' NU,R5,,,145.725000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,40.604167,9.541667,--:--
+21,FM Sardegna,R7 Bruncu Spina CA,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,40.020833,9.291667,--:--
+21,FM Sardegna,R7 M.Serpeddi CA,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,39.354167,9.291667,--:--
+21,FM Sardegna,RU M.Limbara SS,RU,,,430.400000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,40.854167,9.208333,--:--
+21,FM Sardegna,RU Serpeddi CA,RU,,,430.700000,DUP+,5.000000,FM,OFF,88.5Hz,YES,Approximate,39.354167,9.291667,--:--
+21,FM Sardegna,RU1 Limbara SS,RU1,,,430.025000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.854167,9.208333,--:--
+21,FM Sardegna,RU10 M.Serpeddi CA,RU10,,,430.250000,DUP+,1.600000,FM,TONE,123.0Hz,YES,Approximate,39.354167,9.291667,--:--
+21,FM Sardegna,RU2 M.Serpeddi CA,RU2,,,430.050000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.354167,9.291667,--:--
+21,FM Sardegna,RU2 S.Anna di Lode' NU,RU2,,,430.050000,DUP+,1.600000,FM,TONE,74.4Hz,YES,Approximate,40.604167,9.541667,--:--
+21,FM Sardegna,RU4 Cagliari CA,RU4,,,430.100000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.229167,9.125000,--:--
+21,FM Sardegna,RU5 Abbasanta OR,RU5,,,430.125000,DUP+,1.600000,FM,TONE,74.4Hz,YES,Approximate,40.145833,8.791667,--:--
+21,FM Sardegna,RU5 M.Coremò - Narcao CI,RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.229167,8.625000,--:--
+21,FM Sardegna,RU7 Lanusei-M.Armidda OG,RU7,,,430.175000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,39.895833,9.541667,--:--
+21,FM Sardegna,RU8 M.Ferru OR,RU8,,,430.200000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,40.145833,8.541667,--:--
+22,FM San Marino,RU10a San Marino RSM,RU10a,,,430.262500,DUP+,1.600000,FM,TONE,91.5Hz,YES,Approximate,43.937500,12.458333,--:--
+23,FM Svizzera,R0 M.Tamaro HB,R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.104167,8.875000,--:--
+23,FM Svizzera,R1 Moosalpe HB,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.270833,7.875000,--:--
+23,FM Svizzera,R6a M.Tamaro HB,R6a,,,145.762500,DUP-,0.600000,FM,TONE,103.5Hz,YES,Approximate,46.104167,8.875000,--:--
+23,FM Svizzera,RU M.Generoso HB,RU,,,439.487500,DUP-,7.500000,FM,TONE,103.5Hz,YES,Approximate,45.937500,9.041667,--:--
+23,FM Svizzera,RU Moosalpe HB,RU,,,438.675000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,46.270833,7.875000,--:--
+24,FM Austria,RU Dobratsch OE,RU,,,438.900000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,46.604167,13.708333,--:--
+24,FM Austria,RU M.Olperer OE,RU,,,431.325000,DUP+,7.600000,FM,OFF,88.5Hz,YES,Approximate,47.062500,11.708333,--:--
+24,FM Austria,RU M.Olperer OE,RU,,,438.925000,DUP-,7.600000,FM,TONE,77.0Hz,YES,Approximate,47.062500,11.708333,--:--
+25,FM Slovenia,R1 M.Nanos S5,R1,,,145.625000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.770833,14.041667,--:--
+25,FM Slovenia,R3 M.Sabotino S5,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.979167,13.625000,--:--
+25,FM Slovenia,R6a Izola S5,R6a,,,145.762500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,45.520833,13.625000,--:--
+25,FM Slovenia,R7a M.Kanin S5,R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.354167,13.458333,--:--
+25,FM Slovenia,RU Pirano S5,RU,,,438.800000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,45.520833,13.625000,--:--
+25,FM Slovenia,RU Trstelj S5,RU,,,438.750000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,45.854167,13.708333,--:--
+26,FM Croazia,R3 Parenzo S9,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.270833,13.708333,--:--
+26,FM Croazia,R4 M.Maggiore - M.Ucka S9,R4,,,145.700000,DUP-,0.600000,FM,TONE,173.8Hz,YES,Approximate,45.270833,14.208333,--:--
+26,FM Croazia,R7 Dubrovnik S9,R7,,,145.775000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.645833,18.125000,--:--
+26,FM Croazia,RU M.Maggiore - M.Ucka S9,RU,,,439.025000,DUP-,7.600000,FM,TONE,173.8Hz,YES,Approximate,45.270833,14.208333,--:--
+26,FM Croazia,RU Parenzo S9,RU,,,438.675000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,45.270833,13.708333,--:--
+27,FM Germania,RU Zugspitze DL,RU,,,431.250000,DUP+,7.600000,FM,OFF,88.5Hz,YES,Approximate,47.437500,10.958333,--:--
+27,FM Germania,RU Zugspitze DL,RU,,,438.850000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,47.437500,10.958333,--:--
+28,FM Francia,R1a Ajaccio 20,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,41.937500,8.708333,--:--
+28,FM Francia,R1a Nurieux 01,R1a,,,145.637500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,46.187500,5.458333,--:--
+28,FM Francia,R2 Echirolles 38,R2,,,145.650000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,45.145833,5.708333,--:--
+28,FM Francia,R3 Peille 06,R3,,,145.675000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.770833,7.458333,--:--
+28,FM Francia,R4 St-Etienne-L.O 04,R4,,,145.700000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,5.791667,--:--
+28,FM Francia,R4a Rutali 20,R4a,,,145.712500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.562500,9.375000,--:--
+28,FM Francia,R5 Sollies-Toucas 06,R5,,,145.725000,DUP-,0.600000,FM,TONE,74.4Hz,YES,Approximate,43.187500,5.958333,--:--
+28,FM Francia,R5a Patrimonio 20,R5a,,,145.737500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.687500,9.375000,--:--
+28,FM Francia,R6 Antibes 06,R6,,,145.750000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,43.895833,7.125000,--:--
+28,FM Francia,R7a Briancon 05,R7a,,,145.787500,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,44.895833,6.625000,--:--
+28,FM Francia,RU Apremont 01,RU,,,430.150000,DUP+,9.400000,FM,OFF,88.5Hz,YES,Approximate,46.187500,5.625000,--:--
+28,FM Francia,RU Gap 05,RU,,,433.150000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.479167,6.208333,--:--
+28,FM Francia,RU Le Monetier 05,RU,,,434.850000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.020833,6.375000,--:--
+28,FM Francia,RU10 Forest St-Julien 05,RU10,,,430.250000,DUP+,9.400000,FM,OFF,88.5Hz,YES,Approximate,44.645833,6.125000,--:--
+28,FM Francia,RU10 Patrimonio 20,RU10,,,430.250000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,42.687500,9.375000,--:--
+28,FM Francia,RU11 Eze 06,RU11,,,430.275000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.729167,7.291667,--:--
+28,FM Francia,RU12rev St-Etienne-L.O 04,RU12rev,,,431.900000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.104167,5.791667,--:--
+28,FM Francia,RU13rev Chamrousse 38,RU13rev,,,431.925000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.145833,5.875000,--:--
+28,FM Francia,RU14 St.Jeannet 06,RU14,,,430.350000,DUP+,9.400000,FM,OFF,88.5Hz,YES,Approximate,43.729167,7.125000,--:--
+28,FM Francia,RU24rev Echirolles 38,RU24rev,,,433.025000,DUP-,1.600000,FM,OFF,88.5Hz,YES,Approximate,45.145833,5.708333,--:--
+28,FM Francia,RU3 St-Vallier de Thiey 06,RU3,,,430.075000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,43.687500,6.875000,--:--
+28,FM Francia,RU4 Risoul 05,RU4,,,430.100000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.604167,6.625000,--:--
+28,FM Francia,RU5 Briancon 05,RU5,,,430.125000,DUP+,1.600000,FM,OFF,88.5Hz,YES,Approximate,44.895833,6.625000,--:--
+28,FM Francia,RU6 Corte 20,RU6,,,430.150000,DUP+,9.400000,FM,OFF,88.5Hz,YES,Approximate,42.395833,9.208333,--:--
+28,FM Francia,RU9rev Crozet 01,RU9rev,,,430.225000,DUP+,9.400000,FM,TONE,67.0Hz,YES,Approximate,46.270833,5.958333,--:--
+29,FM Montenegro,R0 Herceg Novi 400,R0,,,145.600000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
+29,FM Montenegro,R0 Podgorica 400,R0,,,145.600000,DUP-,0.600000,FM,TONE,79.7Hz,YES,Approximate,42.479167,19.291667,--:--
+29,FM Montenegro,R1a Stabljak Stuoc 400,R1a,,,145.637500,DUP-,0.600000,FM,TONE,77.0Hz,YES,Approximate,43.187500,19.041667,--:--
+29,FM Montenegro,R5 Herceg Novi 400,R5,,,145.725000,DUP-,0.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
+29,FM Montenegro,RU Herceg Novi 400,RU,,,438.600000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
+29,FM Montenegro,RU Herceg Novi 400,RU,,,438.725000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
+29,FM Montenegro,RU Herceg Novi 400,RU,,,438.775000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,42.437500,18.541667,--:--
+29,FM Montenegro,RU Lovcen Stirovnik 400,RU,,,438.675000,DUP-,7.600000,FM,OFF,88.5Hz,YES,Approximate,42.395833,18.791667,--:--

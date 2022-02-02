@@ -7,6 +7,7 @@ var initialGroupNumber = 1
 const columnSeparator = ','
 const onlyVhfAndUhf = true
 const useRegionPrefixInName = false
+const useRepeaterNameInLocation = true
 // Add your hotspot here if you want to add it to the list, leave "" if you don't
 // Use the group 1 for the hotspot
 // Example
@@ -115,7 +116,7 @@ function writeData(data) {
     writeFM(columnSeparator)
     writeFM(groupName)
     writeFM(columnSeparator)
-    writeFM(data.city.trim())
+    writeFM(getName(data))
     writeFM(columnSeparator)
     writeFM(data.name.trim())
     writeFM(columnSeparator)
@@ -144,6 +145,18 @@ function writeData(data) {
     writeFM("--:--")
     writeFM("\n")
     //console.log(data)
+}
+
+function getName(data) {
+    const city = data.city.split('(')[0].trim()
+    const province = data.province.trim()
+    const name = data.name.trim()
+    
+    if (!useRepeaterNameInLocation) {
+        return [city, province].join(' ')
+    }
+
+    return [name, city, province].join(' ')
 }
 
 function getLatitude(data) {
