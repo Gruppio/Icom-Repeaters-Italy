@@ -14,9 +14,9 @@ const useRegionPrefixInName = true
 const hotspot = "1,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,433.111,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00" 
 
 const maxDVRegion = 14
-var writerFM = fs.createWriteStream('../Italy_FM_Repeaters_Icom.csv', { flags: 'w' })
-var writerFMDV = fs.createWriteStream('../Italy_DV_FM_Repeaters_Icom.csv', { flags: 'w' })
-var writerDV = fs.createWriteStream('../Italy_DV_Repeaters_Icom.csv', { flags: 'w' })
+var writerFM = fs.createWriteStream('../Italy_FM_Repeaters.csv', { flags: 'w' })
+var writerFMDV = fs.createWriteStream('../Italy_DV_FM_Repeaters.csv', { flags: 'w' })
+var writerDV = fs.createWriteStream('../Italy_DV_Repeaters.csv', { flags: 'w' })
 
 write("Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset\n")
 
@@ -118,7 +118,6 @@ function writeData(data) {
     writeFM(columnSeparator)
     writeFM(data.name)
     writeFM(columnSeparator)
-    writeFM(data.name)
     writeFM(columnSeparator)
     writeFM(columnSeparator)
     writeFM(freq)
@@ -128,8 +127,6 @@ function writeData(data) {
     writeFM(getShiftValue(data))
     writeFM(columnSeparator)
     writeFM("FM")
-    writeFM(columnSeparator)
-    writeFM(data.tone)
     writeFM(columnSeparator)
     writeFM(getTone(data))
     writeFM(columnSeparator)

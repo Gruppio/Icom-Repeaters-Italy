@@ -1,10 +1,14 @@
 # Ripetitori Italiani per radio ICom
 
+In questo repository potete trovare la lista dei ripetitori Italiani FM e DStar importabili direttamente sulle vostre radio ICom.
+
+I files sono stati testati su un ICom ID52.
+
 # Files
 
-`Italy_DV_FM_Repeaters_Icom.csv` Contiene tuttti i ripetitori FM e DStar
-`Italy_FM_Repeaters_Icom.csv` Contiene tuttti solo i ripetitori FM
-`Italy_DV_Repeaters_Icom.csv` Contiene tuttti solo i ripetitori DStar
+`Italy_DV_FM_Repeaters.csv` Contiene tuttti i ripetitori FM e DStar
+`Italy_FM_Repeaters.csv` Contiene tuttti solo i ripetitori FM
+`Italy_DV_Repeaters.csv` Contiene tuttti solo i ripetitori DStar
 
 # Dettagli 
     * Ogni ripetitore ( compresi quelli FM ) ha le coordinate GPS associate così da poter essere ricercato tra i ripetitori più vicini
@@ -37,9 +41,9 @@ I've tested them with a Icom ID52.
 
 # Files
 
-`Italy_DV_FM_Repeaters_Icom.csv` Contains both FM and DStar repeaters
-`Italy_FM_Repeaters_Icom.csv` Contains just FM repeaters
-`Italy_DV_Repeaters_Icom.csv` Contains just DStar repeaters
+`Italy_DV_FM_Repeaters.csv` Contains both FM and DStar repeaters
+`Italy_FM_Repeaters.csv` Contains just FM repeaters
+`Italy_DV_Repeaters.csv` Contains just DStar repeaters
 
 # Details
     * Every repeater has the associated location so it can be searched in the `Nearby Repeaters`
