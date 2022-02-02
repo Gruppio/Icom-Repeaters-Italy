@@ -11,11 +11,12 @@ const useRegionPrefixInName = true
 // Use the group 1 for the hotspot
 // Example
 // 1,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,430.321,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00
-const hotspot = "" 
+const hotspot = "1,Hotspot,Hotspot,PiStar,xxxxxxxB,xxxxxxxG,433.111,OFF,0.000000,DV,OFF,88.5Hz,YES,Approximate,41.818333,12.715000,+1:00" 
 
-var writerFM = fs.createWriteStream('Italy_FM_Icom.csv', { flags: 'w' })
-var writerFMDV = fs.createWriteStream('Italy_DV_FM_Icom.csv', { flags: 'w' })
-var writerDV = fs.createWriteStream('Italy_DV_Icom.csv', { flags: 'w' })
+const maxDVRegion = 14
+var writerFM = fs.createWriteStream('../Italy_FM_Repeaters_Icom.csv', { flags: 'w' })
+var writerFMDV = fs.createWriteStream('../Italy_DV_FM_Repeaters_Icom.csv', { flags: 'w' })
+var writerDV = fs.createWriteStream('../Italy_DV_Repeaters_Icom.csv', { flags: 'w' })
 
 write("Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset\n")
 
@@ -41,7 +42,7 @@ async function addRepeatersDV() {
         const region = getRegionDV(elements[3])
         const groupName = [getRegionPrefix(region), "DV", getRegionName(region)].join(' ')
         const groupNumberDV = initialGroupNumber + region
-        const groupNumberFMDV = initialGroupNumber + region * 2
+        const groupNumberFMDV = initialGroupNumber + (region * 2)
         
         writerDV.write(`${groupNumberDV}`)
         writerFMDV.write(`${groupNumberFMDV}`)
@@ -105,7 +106,8 @@ function writeData(data) {
     const region = getRegionFM(data)
     const groupName = [getRegionPrefix(region), "FM", getRegionName(region)].join(' ')
     const groupNumberFM = initialGroupNumber + region
-    const groupNumberFMDV = initialGroupNumber + region * 2 + 1
+    const groupNumberFMDV = region <= maxDVRegion  ?
+      initialGroupNumber + (region * 2) + 1 : initialGroupNumber + (maxDVRegion * 2)+ (region - maxDVRegion) + 1
     
     writerFM.write(`${groupNumberFM}`)
     writerFMDV.write(`${groupNumberFMDV}`)
@@ -217,26 +219,26 @@ function getFrequency(data) {
 }
 
 const Region = {
-    valle_aosta: 0,
-    liguria: 1,
-    piemonte: 2,
-    lombardia: 3,
-    veneto: 4,
-    marche: 5,
-    emilia_romagna: 6,
-    toscana: 7,
-    puglia: 8,
-    basilicata: 9,
-    trentino: 10,
-    friuli: 11,
-    umbria: 12,
-    lazio: 13,
-    calabria: 14,
-    sicilia: 15,
-    abruzzo: 16,
-    molise: 17,
-    sardegna: 18,
-    campania: 19,
+    liguria: 0,
+    piemonte: 1,
+    lombardia: 2,
+    veneto: 3,
+    emilia_romagna: 4,
+    toscana: 5,
+    puglia: 6,
+    trentino: 7,
+    friuli: 8,
+    umbria: 9,
+    lazio: 10,
+    calabria: 11,
+    sicilia: 12,
+    abruzzo: 13,  
+    campania: 14,
+    valle_aosta: 15,
+    marche: 16,
+    basilicata: 17,
+    molise: 18,
+    sardegna: 19,
     san_marino: 20,
     svizzera: 21,
     austria: 22,
