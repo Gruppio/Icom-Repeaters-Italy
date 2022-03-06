@@ -1,6 +1,7 @@
 const { locatorToLatLng } = require("./QthLocator")
 const fs = require('fs')
 const readline = require('readline')
+const { exit } = require("process")
 
 // You can increase if you want to reserve the first groups for your own use
 var initialGroupNumber = 1
@@ -153,10 +154,10 @@ function getName(data) {
     const name = data.name.trim()
     
     if (!useRepeaterNameInLocation) {
-        return [city, province].join(' ')
+        return [city, province].join(' ').replace(',','.')
     }
 
-    return [name, city, province].join(' ')
+    return [name, city, province].join(' ').replace(',','.')
 }
 
 function getLatitude(data) {
